@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large data & database files
+*.db
+*.db-shm
+*.db-wal
+*.parquet
+*.sql
+*.json.bak
+/data/
+/turkish_law_db/
+/theme_reference/
+/.cache/
+/bedesten-worker/node_modules/
+/bedesten-worker/.wrangler/

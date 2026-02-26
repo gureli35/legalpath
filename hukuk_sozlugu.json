@@ -1,0 +1,4527 @@
+[
+  {
+    "terim": "Acenta",
+    "anlam": "Ticari mümessil ticari vekil, satış memuru veya müstahdem gibi bir sıfatı olmaksızın bir sözleşmeye dayanarak belirli bir bölge içinde daimi bir suretle ticari bir işletmeyi ilgilendiren akidlerde aracılık etmeyi veya bunları o işletme adına yapmayı mesle",
+    "harf": "A"
+  },
+  {
+    "terim": "Acir",
+    "anlam": "Kiraya veren kimse",
+    "harf": "A"
+  },
+  {
+    "terim": "Aciz",
+    "anlam": "Ödeme güçsüzlüğü.",
+    "harf": "A"
+  },
+  {
+    "terim": "Aciz vesikası",
+    "anlam": "Alacaklı alacağının tamamını alamamışsa kalan miktar için kendisine verilen vesika (İİK 143)",
+    "harf": "A"
+  },
+  {
+    "terim": "Açık artırma",
+    "anlam": "Bir malın, teklif veren kişiler arasında en yüksek bedeli öneren kimseye satılmasını sağlayan satış biçimi.",
+    "harf": "A"
+  },
+  {
+    "terim": "Ada",
+    "anlam": "Çevresi yollarla sınırlandırılmış bulunan, çeşitli parselleri kapsayan arsa parçası.",
+    "harf": "A"
+  },
+  {
+    "terim": "Adâd",
+    "anlam": "Adetler; sayılar",
+    "harf": "A"
+  },
+  {
+    "terim": "Adalet",
+    "anlam": "Haklılık; hakka uygunluk",
+    "harf": "A"
+  },
+  {
+    "terim": "Adem-i ifâ",
+    "anlam": "Yapmamak; yerine getirmemek; borcu ödememek",
+    "harf": "A"
+  },
+  {
+    "terim": "Adem-i iştirak",
+    "anlam": "Katılmamak",
+    "harf": "A"
+  },
+  {
+    "terim": "Adem-i selahiyet",
+    "anlam": "Yetkisizlik",
+    "harf": "A"
+  },
+  {
+    "terim": "Adem-i vüsuk",
+    "anlam": "Gercek olmamak",
+    "harf": "A"
+  },
+  {
+    "terim": "Adi kira",
+    "anlam": "Kiraya verenin, belli bir ücret karşılığında bir şeyin kullanılmasını kiracıya bıraktığı sözleşme.",
+    "harf": "A"
+  },
+  {
+    "terim": "Adi şirket",
+    "anlam": "Iki veya daha çok kimsenin, ortak bir amaca ulaşmak için emeklerini ve mallarını birleştirmeyi kabul ettikleri sözleşme ile kurulan ortaklık.",
+    "harf": "A"
+  },
+  {
+    "terim": "adli",
+    "anlam": "adaletle ilgili demektir. adalet teşkilatı bünyesinde anlamına da gelir.",
+    "harf": "A"
+  },
+  {
+    "terim": "Adlî kaza",
+    "anlam": "Cezai, hukuki, ticari, nizalı, nizasız yargı",
+    "harf": "A"
+  },
+  {
+    "terim": "Adlî müzaharet",
+    "anlam": "Adli yardım",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahar",
+    "anlam": "Başkası; üçüncü kişi; yabancı",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahde vefa",
+    "anlam": "Söze bağlılık, sözleşmeye bağlılık",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahit",
+    "anlam": "Söz verme",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahkam",
+    "anlam": "Hükümler",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahkâmı huzuriyye",
+    "anlam": "Hakim önünde yargılanmayla ilgili yöntem hükümleri",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahkâmı mahsusa",
+    "anlam": "Özel hükümler",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahkâmı müteferia",
+    "anlam": "Ayrıntılı hükümler",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahkâmı mütehalife",
+    "anlam": "Aykırı değişik hükümler",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahvâl",
+    "anlam": "Durumlar; haller; vaziyetler",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahval-i Şahsiye",
+    "anlam": "Hakiki şahısların hukuki varlıklarıyla ilgili olan hukuki hallerdir : Doğum, evlenme, boşanma, evlat edinme, tabii bir çocuğu tanıma, ölüm vakıaları gibi (MK35 ve; Nüfus K).",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahz",
+    "anlam": "Almak",
+    "harf": "A"
+  },
+  {
+    "terim": "Ahzukabz",
+    "anlam": "Bir miktar meblağın elden tesellüm edilmesi veya o miktar meblağın kasa hesabına kaydı",
+    "harf": "A"
+  },
+  {
+    "terim": "Aile hukuku",
+    "anlam": "Aile ilişkilerini düzeneleyen hukuk kurallarıdır.",
+    "harf": "A"
+  },
+  {
+    "terim": "Aile şirketi",
+    "anlam": "Bir ailenin bireylerinden oluşan ortaklık.",
+    "harf": "A"
+  },
+  {
+    "terim": "Aile yurdu",
+    "anlam": "Bir kimsenin, ailenin gereksiniminden büyük olmamak ve bizzat kendisinin veya ailesinin işletmesi ya da oturması koşuluyla, aile bireylerinin geçimi ve oturmasını sağlamak amacıyla ayırdığı taşınmaz ve ekleri.",
+    "harf": "A"
+  },
+  {
+    "terim": "Akamet",
+    "anlam": "Neticesizlik, kısırlık, sonuç alınmama.",
+    "harf": "A"
+  },
+  {
+    "terim": "Akar",
+    "anlam": "Taşınmaz mal; kiraya verilen ve gelir sağlayan şeyler",
+    "harf": "A"
+  },
+  {
+    "terim": "Akarâtı mevkufe",
+    "anlam": "Vakfedilmiş, gelir getiren mallar",
+    "harf": "A"
+  },
+  {
+    "terim": "Akdetmek",
+    "anlam": "Sözleşmek; kararlaştırmak; düzenlemek; bağlamak",
+    "harf": "A"
+  },
+  {
+    "terim": "Akd-i mebhusünanh",
+    "anlam": "Sözü geçen akit, anlaşma, sözleşme",
+    "harf": "A"
+  },
+  {
+    "terim": "Akd-i mezbur",
+    "anlam": "Sözü geçen akit, anlaşma, sözleşme",
+    "harf": "A"
+  },
+  {
+    "terim": "Akd-i muvazaa",
+    "anlam": "Karşılıklı ödün verilerek yapılan akit, anlaşma, sözleşme",
+    "harf": "A"
+  },
+  {
+    "terim": "Akd-i sahih",
+    "anlam": "Geçerli, doğru, kusursuz akit, anlaşma, sözleşme",
+    "harf": "A"
+  },
+  {
+    "terim": "Bâ tapu",
+    "anlam": "Tapulu; tapu ile tasarruf olunan",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâb",
+    "anlam": "Kapı",
+    "harf": "B"
+  },
+  {
+    "terim": "Ba'dehû",
+    "anlam": "Daha sonra",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâ'de'l-isticar",
+    "anlam": "Kira sözleşmesinden sonra",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâ'de'l-istirdad",
+    "anlam": "Geri aldıktan sonra",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâdî olmak",
+    "anlam": "Sebep olmak",
+    "harf": "B"
+  },
+  {
+    "terim": "Bağımsız bölüm",
+    "anlam": "Kat Mülkiyeti Kanunu'na göre, ana gayrimenkulun ayrı ayrı ve başlı başına kullanılmaya müsait bağımsız mülkiyete konu olabilen bölümleri.",
+    "harf": "B"
+  },
+  {
+    "terim": "Bağıt",
+    "anlam": "Akit",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâhir",
+    "anlam": "Belli; besbelli; açık; apaçık",
+    "harf": "B"
+  },
+  {
+    "terim": "Bahri",
+    "anlam": "Denize ait",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâ-husus",
+    "anlam": "Hele; özellikle; üstelik",
+    "harf": "B"
+  },
+  {
+    "terim": "Baîd",
+    "anlam": "Uzak; ırak",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâîs olmak",
+    "anlam": "Sebep olmak; göndermek; gerektirmek",
+    "harf": "B"
+  },
+  {
+    "terim": "Baki",
+    "anlam": "Sürekli; daimî; artan; kalan; kalımlı; kalıcı; ölümsüz; saklı duran",
+    "harf": "B"
+  },
+  {
+    "terim": "Bakiye",
+    "anlam": "Artan",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâlâ",
+    "anlam": "Yukarı; yüksek; üst; yüce",
+    "harf": "B"
+  },
+  {
+    "terim": "Bâligân-mâbelâğ",
+    "anlam": "Ziyadesiyle; bol bol",
+    "harf": "B"
+  },
+  {
+    "terim": "Baliğ",
+    "anlam": "Eren; varan; bulan; yetişen; toplam; büluğa; ergin;",
+    "harf": "B"
+  },
+  {
+    "terim": "Bariz",
+    "anlam": "Açık; göze çarpan; belirgin",
+    "harf": "B"
+  },
+  {
+    "terim": "Basiret",
+    "anlam": "Doğru görüş; uzağı görüş; önceden görüş; seziş; uyanıklık; anlayış; kavrayış; dikkat; sağgörü",
+    "harf": "B"
+  },
+  {
+    "terim": "Batıl",
+    "anlam": "Doğru ve haklı olmayan; çürük; bozuk; sakat; boş; hukuken geçersiz; dayanaksız; temelsiz; beyhude; hüküm ifade etmeyen",
+    "harf": "B"
+  },
+  {
+    "terim": "Bayi",
+    "anlam": "Bazı maddeleri satma izni olan kimse; satıcı; satış yeri",
+    "harf": "B"
+  },
+  {
+    "terim": "Becâ",
+    "anlam": "Yerine; uygun; bedava; karşılıksız; parasız; emeksiz",
+    "harf": "B"
+  },
+  {
+    "terim": "Becayiş",
+    "anlam": "İki memurun kendi rızaları ile ilgili makamın tasdikıyle aralarında memuriyet, makam ve vazifelerini değiştirmeleri.",
+    "harf": "B"
+  },
+  {
+    "terim": "Bedâyî",
+    "anlam": "Sermayeler; anamallar;",
+    "harf": "B"
+  },
+  {
+    "terim": "Bedel-i misil",
+    "anlam": "Emsaline uygun peşin para",
+    "harf": "B"
+  },
+  {
+    "terim": "Bedialar",
+    "anlam": "Göze güzel görünen şeyler; estetik",
+    "harf": "B"
+  },
+  {
+    "terim": "Bedihî",
+    "anlam": "Açık olan; besbelli; apaçık; akla; kendiliğinden gelen",
+    "harf": "B"
+  },
+  {
+    "terim": "Bediî",
+    "anlam": "Güzellik ölçülerine uyan; güzel; güzellik",
+    "harf": "B"
+  },
+  {
+    "terim": "Beher",
+    "anlam": "Her biri",
+    "harf": "B"
+  },
+  {
+    "terim": "Belagat",
+    "anlam": "Iyi konuşma; sözle inandırma yeteneği; söz sanatlarını inceleyen bilgi dalı",
+    "harf": "B"
+  },
+  {
+    "terim": "Beraat",
+    "anlam": "Aklanma",
+    "harf": "B"
+  },
+  {
+    "terim": "Berât",
+    "anlam": "Rütbe, nişan ve imtiyaz verildiğini bildiren ferman",
+    "harf": "B"
+  },
+  {
+    "terim": "Berâyı tetkik",
+    "anlam": "Inceliyerek",
+    "harf": "B"
+  },
+  {
+    "terim": "Berhava",
+    "anlam": "Havaya gitmiş; kaybolmuş; uçurulmuş; yararsız; boş",
+    "harf": "B"
+  },
+  {
+    "terim": "Berî-üz-zimme",
+    "anlam": "Zimmetten kurtulmuş; aklanmış",
+    "harf": "B"
+  },
+  {
+    "terim": "Ber-mucib-i talep",
+    "anlam": "Talep mucibince; istem gibi",
+    "harf": "B"
+  },
+  {
+    "terim": "Ber-vech",
+    "anlam": "Olduğu gibi; olarak",
+    "harf": "B"
+  },
+  {
+    "terim": "Ber-vech-i bâlâ",
+    "anlam": "Yukarıda olduğu gibi",
+    "harf": "B"
+  },
+  {
+    "terim": "Ber-vechi peşin",
+    "anlam": "Peşin olarak",
+    "harf": "B"
+  },
+  {
+    "terim": "C.SAVCISI",
+    "anlam": "MÜDDEİUMUM",
+    "harf": "C"
+  },
+  {
+    "terim": "Câmi",
+    "anlam": "Cem eden;",
+    "harf": "C"
+  },
+  {
+    "terim": "Câmia",
+    "anlam": "Topluluk; zümre",
+    "harf": "C"
+  },
+  {
+    "terim": "Cânî",
+    "anlam": "Cinayet işlemiş olan kimse",
+    "harf": "C"
+  },
+  {
+    "terim": "Canîb-i beytülmal",
+    "anlam": "Hazine tarafı",
+    "harf": "C"
+  },
+  {
+    "terim": "Canîb-i vakıf",
+    "anlam": "Vakıf tarafı",
+    "harf": "C"
+  },
+  {
+    "terim": "Canîp",
+    "anlam": "Yön; taraf; cihet; yan",
+    "harf": "C"
+  },
+  {
+    "terim": "Cari",
+    "anlam": "Uygulanan; yürürlükte olan",
+    "harf": "C"
+  },
+  {
+    "terim": "Cari Fiyat",
+    "anlam": "Bir malın satışında ilan veya fiyat listesi veya etiket ile umuma arz olunan veya ticaret odalarıyla belediyeler ve borsalar gibi salahiyetli yerlerce tesbit edilen fiyat.",
+    "harf": "C"
+  },
+  {
+    "terim": "Cây-i teemmül",
+    "anlam": "Etraflıca düşünülmeye değer; düşünülmesi yerinde olur",
+    "harf": "C"
+  },
+  {
+    "terim": "Cebel",
+    "anlam": "Dağ, yüksek tepe.",
+    "harf": "C"
+  },
+  {
+    "terim": "Cebrî",
+    "anlam": "Zorla yapılan; zor kullanarak yaptırılan; zor altında; güç kullanarak",
+    "harf": "C"
+  },
+  {
+    "terim": "Cebri icra",
+    "anlam": "Kendi istekleriyle borçlarını ödemeyen borçluların, borçlarını Devlet kuvveti ile ödemelerinin sağlanması; ilgili icra dairelerinin, (gereğinde) zor kullanarak, borçluyu borcunu ödemeye zorlamaları",
+    "harf": "C"
+  },
+  {
+    "terim": "Cebri satım",
+    "anlam": "Malikinin isteğine bakılmaksızın, resmi makamlar tarafından yapılan satım",
+    "harf": "C"
+  },
+  {
+    "terim": "Celesat-ı âti",
+    "anlam": "Gelecekteki celseler, oturumlar",
+    "harf": "C"
+  },
+  {
+    "terim": "Celile",
+    "anlam": "Büyük; ulu",
+    "harf": "C"
+  },
+  {
+    "terim": "Celpname",
+    "anlam": "Yargılamada,davacı,davalı,tanık,bilirkişi gibi kimseleri mahkemeye getirtmek için yapılan çağrı",
+    "harf": "C"
+  },
+  {
+    "terim": "Celse",
+    "anlam": "Mahkemelerde bir muhakemenin, duruşmanın ve sair meclislerle heyetlerde müzakerelerin yapılması için, nisap dairesinde, azanın her toplantısı. Celselerin açılması ve kapanması ve inzıbatı mahkeme veya heyet reislerine aittir.(CMUK.378)",
+    "harf": "C"
+  },
+  {
+    "terim": "Ceman",
+    "anlam": "Toplam olarak,toplamı",
+    "harf": "C"
+  },
+  {
+    "terim": "Cemetmek",
+    "anlam": "Toplamak; bir araya getirmek",
+    "harf": "C"
+  },
+  {
+    "terim": "Cemi ezmân",
+    "anlam": "Bütün zamanlar; zamanların toplamı",
+    "harf": "C"
+  },
+  {
+    "terim": "cenup",
+    "anlam": "güney",
+    "harf": "C"
+  },
+  {
+    "terim": "Cereme",
+    "anlam": "Başkası tarafından yapılan veya kaza sonucu ortaya çıkan zararı ödeme; para cezası",
+    "harf": "C"
+  },
+  {
+    "terim": "Cerh ü iptal",
+    "anlam": "Çürütme ve yok sayma; geçersiz hale getirme",
+    "harf": "C"
+  },
+  {
+    "terim": "Cevâmi'",
+    "anlam": "Camiler; mescitler; toplanılan yerler",
+    "harf": "C"
+  },
+  {
+    "terim": "Cevâz",
+    "anlam": "Izin; müsaade; caiz olma",
+    "harf": "C"
+  },
+  {
+    "terim": "Cevâz bahş",
+    "anlam": "Izin veren; müsaade eden",
+    "harf": "C"
+  },
+  {
+    "terim": "Cevaz-ı İstihdam Kararı",
+    "anlam": "Görülen idari lüzum ve zarurete binaen azledilmek suretiyle vazifesinden uzaklaştırılan memurun yeniden memuriyete alınabilmesi için azleden dairece verilmesi icabeden karar.",
+    "harf": "C"
+  },
+  {
+    "terim": "Cevher",
+    "anlam": "Maya; öz; değerli taş; elmas",
+    "harf": "C"
+  },
+  {
+    "terim": "Ceza",
+    "anlam": "Suç işleyen kişilerin karşılaşacakları tepkidir,yani kanunun suç işleyen kimseye uygulanmasını öngördüğü müeyyidedir.",
+    "harf": "C"
+  },
+  {
+    "terim": "Ceza şartı",
+    "anlam": "Ceza koşulu; alacaklının zararını karşılama şartı",
+    "harf": "C"
+  },
+  {
+    "terim": "Cezrî",
+    "anlam": "Asıl ile ilgili; kökle ilgili; kökten; temelden",
+    "harf": "C"
+  },
+  {
+    "terim": "Cibâyet",
+    "anlam": "Alma; toplama; vergilerin ve başkaca devlet gelirlerinin tahsili",
+    "harf": "C"
+  },
+  {
+    "terim": "Cihet",
+    "anlam": "Yön; taraf; amaç",
+    "harf": "C"
+  },
+  {
+    "terim": "Cins tashihi",
+    "anlam": "Tapu kütüğünde kayıtlı bir taşınmazın niteliğinin değiştirilerek kütüğe, başka bir nitelikte tescil edilmesi.",
+    "harf": "C"
+  },
+  {
+    "terim": "Ciro",
+    "anlam": "Çifte yetki veren havale; ticari senedin, arkasına yazılan yazı veya imza ile başkasına devri.",
+    "harf": "C"
+  },
+  {
+    "terim": "Cismanî",
+    "anlam": "Cisimle, bedenle ilgili; bedensel",
+    "harf": "C"
+  },
+  {
+    "terim": "cismanî zarar",
+    "anlam": "Kişinin vücut bütünlüğüne verilen zarar.",
+    "harf": "C"
+  },
+  {
+    "terim": "Cism-i câmid",
+    "anlam": "Cansız cisim",
+    "harf": "C"
+  },
+  {
+    "terim": "Cürmiyet",
+    "anlam": "Suç hali; suçluluk",
+    "harf": "C"
+  },
+  {
+    "terim": "Çek",
+    "anlam": "Ödeme aracı; kanun ile belirlenen şekilde düzenlenen, keşidecinin emrinde para bulunan banka üzerinden çekilebilen havalesi",
+    "harf": "Ç"
+  },
+  {
+    "terim": "Çifte standart",
+    "anlam": "Kişiye veya duruma göre farklı davranışlarda bulunma, tutarlı olmama",
+    "harf": "Ç"
+  },
+  {
+    "terim": "Çarter Sözleşmesi",
+    "anlam": "Eğer navlun sözleşmesinde eşyanın taşınması için geminin veya uçağın tamamı veya bir kısmı, yani yer tahsis edilmişse bu durumda çarter sözleşmesi söz konusudur.",
+    "harf": "Ç"
+  },
+  {
+    "terim": "Çetrefil",
+    "anlam": "Karışık",
+    "harf": "Ç"
+  },
+  {
+    "terim": "Dâfi",
+    "anlam": "Defi'de, savuda bulunan kimse",
+    "harf": "D"
+  },
+  {
+    "terim": "Dahiliye Vekâleti",
+    "anlam": "İçişleri Bakanlığı",
+    "harf": "D"
+  },
+  {
+    "terim": "Dava",
+    "anlam": "Bir kimsenin diğer kimseden hakim huzurunda hakkını istemesi.",
+    "harf": "D"
+  },
+  {
+    "terim": "Dâyin",
+    "anlam": "Borç veren; alacaklı",
+    "harf": "D"
+  },
+  {
+    "terim": "Deâvî",
+    "anlam": "Davalar",
+    "harf": "D"
+  },
+  {
+    "terim": "Defaât",
+    "anlam": "Kereler; kezler; yollar",
+    "harf": "D"
+  },
+  {
+    "terim": "Def'aten",
+    "anlam": "Bir defada; birden",
+    "harf": "D"
+  },
+  {
+    "terim": "Defâtir",
+    "anlam": "Defterler; birlikte dikilmiş kağıtlar",
+    "harf": "D"
+  },
+  {
+    "terim": "Defi",
+    "anlam": "Taraflardan birinin, hususiyle müddeialeyhin kendisine karşı açılan davada edadan kurtulmak için bavurduğu her türü vasıta.",
+    "harf": "D"
+  },
+  {
+    "terim": "Def'i def",
+    "anlam": "Def'e karşı def'; savuya karşı savu",
+    "harf": "D"
+  },
+  {
+    "terim": "Defter-hâne",
+    "anlam": "Taşınmaz mallara ilişkin tasarrufların kayıt",
+    "harf": "D"
+  },
+  {
+    "terim": "Defter-i hakanî",
+    "anlam": "Eskiden taşınmaz mala ilişkin tasarruf işlemlerinin kayıt ve tescil edildiği defter",
+    "harf": "D"
+  },
+  {
+    "terim": "Defter-i hakanî idaresi",
+    "anlam": "Eskiden taşınmaz mala ilişkin tasarruf işlemlerinin kayıt ve tescil edildiği daire",
+    "harf": "D"
+  },
+  {
+    "terim": "Değer baha",
+    "anlam": "Bir malın iktisadi duruma göre kıymetini ifade eden fiyat",
+    "harf": "D"
+  },
+  {
+    "terim": "Delâlet",
+    "anlam": "Gösterme; yol gösterme; kılavuzluk; iz; işaret; aracılık",
+    "harf": "D"
+  },
+  {
+    "terim": "Delâlet-i bil'işare",
+    "anlam": "Işaret ederek, hatırlatarak gösterme",
+    "harf": "D"
+  },
+  {
+    "terim": "Delil",
+    "anlam": "Kanıt; tanıt; ipucu",
+    "harf": "D"
+  },
+  {
+    "terim": "Delil-i celî",
+    "anlam": "Aşikar delil; belli, apaçık kanıt",
+    "harf": "D"
+  },
+  {
+    "terim": "Demirbaş",
+    "anlam": "Bir taşınmazın kiraya verilmesinde kiraya dahil olan, kiralamanın sonunda aynı cins ve değerde iade edilen veya değer eksilmesi kiracı tarafından tazmin edilen eşya",
+    "harf": "D"
+  },
+  {
+    "terim": "Demokratik devlet",
+    "anlam": "Halkın devlet yönetimine katılması esasına dayanan devlettir.",
+    "harf": "D"
+  },
+  {
+    "terim": "Depozito",
+    "anlam": "Bir sözleşmeden dolayı doğabilecek zararlara karşı verilen teminat; bir taahhüt sırasında yatırılan güvence parası.",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-akap",
+    "anlam": "Hemen; arkasından",
+    "harf": "D"
+  },
+  {
+    "terim": "Derc etmek",
+    "anlam": "Araya sokmak; arasına sıkıştırmak",
+    "harf": "D"
+  },
+  {
+    "terim": "Derceb etmek",
+    "anlam": "Cebe atmak; kendine alıkoymak",
+    "harf": "D"
+  },
+  {
+    "terim": "Derç",
+    "anlam": "Sokma; arasına sıkıştırma; gazeteye yazma; toplama; biriktirme",
+    "harf": "D"
+  },
+  {
+    "terim": "Derdest",
+    "anlam": "Görülmekte olan",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-dest-i rü'yet",
+    "anlam": "Dava görülmek üzere ele alınan, eldeki dava",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-kâr",
+    "anlam": "Malum; aşikar; bilinen; belli",
+    "harf": "D"
+  },
+  {
+    "terim": "Dermeyan etmek",
+    "anlam": "Ileri sürmek; öne sürmek; ortaya koymak; anlatmak",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-piş",
+    "anlam": "En önde; göz önünde bulunan; öngörü",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-pîş etmek",
+    "anlam": "Öngörme; göz önünde bulundurma",
+    "harf": "D"
+  },
+  {
+    "terim": "Der-uhte",
+    "anlam": "Üstüne alma; yüklenme; üstlenme; sağlama",
+    "harf": "D"
+  },
+  {
+    "terim": "Desise",
+    "anlam": "Hile; oyun; entrika",
+    "harf": "D"
+  },
+  {
+    "terim": "Devair",
+    "anlam": "Daireler",
+    "harf": "D"
+  },
+  {
+    "terim": "Devlet Şurası",
+    "anlam": "Danıştay",
+    "harf": "D"
+  },
+  {
+    "terim": "Devletler Özel Hukuku",
+    "anlam": "Kişilerle devlet arasındaki bağı (tabiyeti), bir ülkede yabancıların sahip olduğu hakları ve çeşitli ülkelerde geçerli olan kanunların çatışması nedeniyle ortaya çıkan uyuşmazlıkları çözmeyi ve bunun için çeşitli bağlama kuralları getirmeyi konu alan huku",
+    "harf": "D"
+  },
+  {
+    "terim": "Devremülk hakkı",
+    "anlam": "Mesken olarak kullanılmaya elverişli bir yapı veya bağımsız bölümün ortak maliklerinden her biri lehine, bu yapı veya bağımsız bölümden yılın belli dönemlerinde istifade etmek üzere, müşterek mülkiyet payına bağlı olarak kurulan irtifak hakkı.",
+    "harf": "D"
+  },
+  {
+    "terim": "Deyn",
+    "anlam": "Borç",
+    "harf": "D"
+  },
+  {
+    "terim": "Disiplin cezaları",
+    "anlam": "Belli bir statü içinde bulunan kimselere hizmet ve iç düzenle ilgili kurallara aykırı davranışta bulundukları zaman uygulanan cezalardır.",
+    "harf": "D"
+  },
+  {
+    "terim": "Divan-ı Muhasebat",
+    "anlam": "Büyük Millet Meclisine bağlı ve devletin bütün varidat ve masraflariyle mallarını ve hesaplarını onun namına murakabe edenlerin hesaplarını tetkik ve muhakeme ile mükellef bir heyet.",
+    "harf": "D"
+  },
+  {
+    "terim": "Ebniye",
+    "anlam": "Binalar; yapılar",
+    "harf": "E"
+  },
+  {
+    "terim": "Ecnebî",
+    "anlam": "Yabancı; bir devlete göre,kendi uyruğunda bulunmayan gerçek veya tüzel kişiler",
+    "harf": "E"
+  },
+  {
+    "terim": "Ecr-i müsemmâ",
+    "anlam": "Taraflar arasında belirlenen ücret",
+    "harf": "E"
+  },
+  {
+    "terim": "Ecrimisil",
+    "anlam": "Bir malın kullanılmasından doğan yararların para ölçüleriyle takdiri",
+    "harf": "E"
+  },
+  {
+    "terim": "Eda",
+    "anlam": "Edim; borçlanılan şey; borcun konusu",
+    "harf": "E"
+  },
+  {
+    "terim": "Eda davası",
+    "anlam": "Davalının bir iş yapmaya,bir ifada bulunmaya veya bir iş yapmamaya,bir ifada bulunmamaya mahkum edilmesinin istenildiği dava",
+    "harf": "E"
+  },
+  {
+    "terim": "Edeb",
+    "anlam": "Iyi terbiye; naziklik; usluluk",
+    "harf": "E"
+  },
+  {
+    "terim": "Edim",
+    "anlam": "Aralarındaki borç ilişkisi dolayısıyla alacaklının isteyebileceği, borçlunun da yerine getirmekle yükümlü bulunduğu bir davranış biçimi",
+    "harf": "E"
+  },
+  {
+    "terim": "Ef'âl",
+    "anlam": "Eylemler; fiiller, işler; ameller",
+    "harf": "E"
+  },
+  {
+    "terim": "Efrâd",
+    "anlam": "Fertler; bireyler",
+    "harf": "E"
+  },
+  {
+    "terim": "Ehil",
+    "anlam": "Ehliyetli; hak sahibi; bir hukuki işlem yapabilme yeteneğine sahip",
+    "harf": "E"
+  },
+  {
+    "terim": "Ehl-i hibre",
+    "anlam": "Bilirkişi",
+    "harf": "E"
+  },
+  {
+    "terim": "Ehl-i vukûf",
+    "anlam": "Bilirkişi",
+    "harf": "E"
+  },
+  {
+    "terim": "Ekalliyet(akalliyet)",
+    "anlam": "Azınlık",
+    "harf": "E"
+  },
+  {
+    "terim": "Eklenti",
+    "anlam": "Bir konutun veya bir binanın kullanılış amaçlarından herhangi birini tamamlayan ya da kolaylaştıran yapı.",
+    "harf": "E"
+  },
+  {
+    "terim": "Ekser",
+    "anlam": "Daha ziyade; ençok; çoğu; çoğunca",
+    "harf": "E"
+  },
+  {
+    "terim": "Ekseriyet",
+    "anlam": "Çoğunluk",
+    "harf": "E"
+  },
+  {
+    "terim": "Ekseriyeti ara",
+    "anlam": "Oy çokluğu",
+    "harf": "E"
+  },
+  {
+    "terim": "Elfaz",
+    "anlam": "Kelimeler; sözler",
+    "harf": "E"
+  },
+  {
+    "terim": "Elîm",
+    "anlam": "Elemli; kederli acılı",
+    "harf": "E"
+  },
+  {
+    "terim": "El-yevm",
+    "anlam": "Bugün; şimdi; halen",
+    "harf": "E"
+  },
+  {
+    "terim": "Emlak vergisi",
+    "anlam": "Konusu bina ve arazi olup, bu bina veya arazi malikinin, intifa hakkı sahibinin, her ikisi de yoksa malik gibi tasarruf eden kimsenin, bina ve arazinin değeri esas alınarak kanunda belirtilen oranlara göre ödediği vergi.",
+    "harf": "E"
+  },
+  {
+    "terim": "Emlâk-i sirfe",
+    "anlam": "Yeri ve üzerinde binalar ve ağaçları mülk olan taşınmaz mallar",
+    "harf": "E"
+  },
+  {
+    "terim": "Emr-i makzî",
+    "anlam": "Hükme bağlanmış iş",
+    "harf": "E"
+  },
+  {
+    "terim": "Emtea",
+    "anlam": "Ticaret konusu her türlü mal",
+    "harf": "E"
+  },
+  {
+    "terim": "emtia",
+    "anlam": "eşya, mallar.",
+    "harf": "E"
+  },
+  {
+    "terim": "Emval",
+    "anlam": "Mallar; mülkler",
+    "harf": "E"
+  },
+  {
+    "terim": "Emvâli menkule",
+    "anlam": "Taşınır mallar;taşınabilir mallar",
+    "harf": "E"
+  },
+  {
+    "terim": "Enfüsi",
+    "anlam": "Öznel; subjektif",
+    "harf": "E"
+  },
+  {
+    "terim": "Enkaz",
+    "anlam": "Bina yıkıntıları; yıkıntı; moloz; eski hayvanların bakiyeleri",
+    "harf": "E"
+  },
+  {
+    "terim": "Envai mesalih",
+    "anlam": "Işlerin çeşitliği",
+    "harf": "E"
+  },
+  {
+    "terim": "Erbaa",
+    "anlam": "Dört",
+    "harf": "E"
+  },
+  {
+    "terim": "Erbâb",
+    "anlam": "Ehil; becerikli; muktedir; yetenekler; sahipler; malikler",
+    "harf": "E"
+  },
+  {
+    "terim": "Erbâb-ı vukuf",
+    "anlam": "Bilirkişiler",
+    "harf": "E"
+  },
+  {
+    "terim": "Esbab-ı mucibe",
+    "anlam": "Gerekçe; gerektirici sebepler",
+    "harf": "E"
+  },
+  {
+    "terim": "Eshâb",
+    "anlam": "Sahipler; bir şeyin malikleri",
+    "harf": "E"
+  },
+  {
+    "terim": "Esham",
+    "anlam": "Pay senedi; hisse senedi",
+    "harf": "E"
+  },
+  {
+    "terim": "Eslem",
+    "anlam": "En selâmetli; en emin; en doğru; en sağlam",
+    "harf": "E"
+  },
+  {
+    "terim": "Esnaf",
+    "anlam": "Ister gezici, ister bir dükkan veya bir sokağın belli bir yerinde sabit olsun, iktisadi faaliyeti nakdi sermayeden ziyade bedeni çalışmasına dayanan ve kazancı ancak geçimini sağlamaya yetecek derecede az olan sanat ve ticaret sahipleridir.",
+    "harf": "E"
+  },
+  {
+    "terim": "Eşcar",
+    "anlam": "Ağaçlar",
+    "harf": "E"
+  },
+  {
+    "terim": "Faal Nedâmet",
+    "anlam": "Suç işleyen bir kimsenin suçundan sonra pişmanlık duyarak işlediği fiilin sonucunu önlemeye çalışması, suç işlediği sırada pişmanlık duyması. Aktif nedâmet.Aktif pişmanlık.",
+    "harf": "F"
+  },
+  {
+    "terim": "Fâhiş",
+    "anlam": "Aşırı; ağır; çok fazla",
+    "harf": "F"
+  },
+  {
+    "terim": "Faraziye",
+    "anlam": "Hukuk meselelerini, muayyen bir sistemin esaslarına muvakıf ve tenakuzlara mahal vermeyecek tarzda, halledebilmek için bu sistemin hükümleri ve hususiyetleri üzerine yapılan müşahede, mülahaza, kıyas, istikra ve hadiselerin verdiği mümkün mertebe toplu ne",
+    "harf": "F"
+  },
+  {
+    "terim": "Fariğ",
+    "anlam": "Bir şeyi veya hakkı başkasına devreden; ferağda bulunan; feragat eden; taşınmaz maldaki tasarruf hakkını başkasına bırakan kişi",
+    "harf": "F"
+  },
+  {
+    "terim": "Farz",
+    "anlam": "Zorunlu; baş koşul; boyun borcu; çok gerekli; varsayma",
+    "harf": "F"
+  },
+  {
+    "terim": "Fâsıl",
+    "anlam": "Ayıran; bölen",
+    "harf": "F"
+  },
+  {
+    "terim": "Fâsıla",
+    "anlam": "Aralık; ara",
+    "harf": "F"
+  },
+  {
+    "terim": "Fasl etme",
+    "anlam": "Halletme; neticelendirme",
+    "harf": "F"
+  },
+  {
+    "terim": "Fehime",
+    "anlam": "Anlayış",
+    "harf": "F"
+  },
+  {
+    "terim": "Fek",
+    "anlam": "Kaldırma; bir hukuki sınırlamanın kaldırılması; sona erdirme; bitirme",
+    "harf": "F"
+  },
+  {
+    "terim": "Fer' î",
+    "anlam": "Bağımlı; ekli; eklentili; ikinci derecede olan",
+    "harf": "F"
+  },
+  {
+    "terim": "Ferâgat",
+    "anlam": "Vazgeçme; el çekme; dinlenme",
+    "harf": "F"
+  },
+  {
+    "terim": "Ferağ",
+    "anlam": "Devir; devretme; bir hakkı birine geçirme; mirî veya vakıf arazinin yararlanma hakkının satışı",
+    "harf": "F"
+  },
+  {
+    "terim": "Ferd",
+    "anlam": "Tek; yalnız olan şey; eşi olmayan; tek olan sayı",
+    "harf": "F"
+  },
+  {
+    "terim": "Fesâd",
+    "anlam": "Karıştırıcı; arabozucu; karışıklık; bozukluk; dolan",
+    "harf": "F"
+  },
+  {
+    "terim": "Fesh",
+    "anlam": "Bozma; bozulma; dağılma; dağıtma; kapatma; kaldırma",
+    "harf": "F"
+  },
+  {
+    "terim": "Fesih",
+    "anlam": "Devam etmekte olan bir hukuki ilişkiyi, tek taraflı olarak ve ileriye dönük olmak üzere sonlandıran bozucu yenilik doğurucu irade beyanı.",
+    "harf": "F"
+  },
+  {
+    "terim": "Fetret",
+    "anlam": "Zayıflık,uyuşukluk.",
+    "harf": "F"
+  },
+  {
+    "terim": "fevk",
+    "anlam": "Üst,üst dereceli, astın üstünde yer alan",
+    "harf": "F"
+  },
+  {
+    "terim": "Fevkinde",
+    "anlam": "Üstünde; aşan",
+    "harf": "F"
+  },
+  {
+    "terim": "Fezleke",
+    "anlam": "Bir tahkikat veya muhakeme zabtının hülasası demektir.Bunda tafsilata girişilmeden işin ana hatları gösterilir. Bir teftiş raporunun kısaltılması halinde iktisab ettiği şekle de denir.",
+    "harf": "F"
+  },
+  {
+    "terim": "Fıkra",
+    "anlam": "Kanunların, nizamnamelerin ve talimatnamelerin sıralanan ayrı ayrı hükümlerini göstermek için kullanılan bir bölüm işaretidir.",
+    "harf": "F"
+  },
+  {
+    "terim": "Fıktan",
+    "anlam": "Yokluk",
+    "harf": "F"
+  },
+  {
+    "terim": "Fırka",
+    "anlam": "Insan kalabalığı grubu; parti",
+    "harf": "F"
+  },
+  {
+    "terim": "Fıtrî",
+    "anlam": "Tabii; yaradılışındaki; doğasındaki",
+    "harf": "F"
+  },
+  {
+    "terim": "Fi-i cârî",
+    "anlam": "Geçer değer",
+    "harf": "F"
+  },
+  {
+    "terim": "Fiil ehliyet",
+    "anlam": "Bir kimsenin, kendi eylemleriyle haklar ve yükümlülükler yaratması yeteneği.",
+    "harf": "F"
+  },
+  {
+    "terim": "Filhakika",
+    "anlam": "Hakikatte; gerçekte; doğrusu",
+    "harf": "F"
+  },
+  {
+    "terim": "Fuhûş",
+    "anlam": "Haddini aşma; kötülük; namusa aykırı hareket",
+    "harf": "F"
+  },
+  {
+    "terim": "Fuzûlî",
+    "anlam": "Boşuna; yersiz; lüzumsuz; haksız; boşboğaz; erkek adı",
+    "harf": "F"
+  },
+  {
+    "terim": "Fuzûlî işgal",
+    "anlam": "Bir taşınmaz malı sahibinin izin ve rızası olmadan ele geçirmek",
+    "harf": "F"
+  },
+  {
+    "terim": "Fuzuli şâgil",
+    "anlam": "Hukuken geçerli bir hakkı olmadan bir yeri işgal eden",
+    "harf": "F"
+  },
+  {
+    "terim": "Fürûht",
+    "anlam": "Satma; satım; satış",
+    "harf": "F"
+  },
+  {
+    "terim": "Feteva",
+    "anlam": "Hukuki Sorular ve Cevapları",
+    "harf": "F"
+  },
+  {
+    "terim": "Fakr-u zaruret",
+    "anlam": "Fakirlik ve çaresizlik",
+    "harf": "F"
+  },
+  {
+    "terim": "Fahh",
+    "anlam": "Ağ, kapan, tuzak",
+    "harf": "F"
+  },
+  {
+    "terim": "Feragat",
+    "anlam": "Hakkından kendi isteğiyle vazgeçme. el çekmek",
+    "harf": "F"
+  },
+  {
+    "terim": "Fevt",
+    "anlam": "Elden çıkarma, yitirme, yitme",
+    "harf": "F"
+  },
+  {
+    "terim": "Fail",
+    "anlam": "bir eylemi gerceklestiren kisi",
+    "harf": "F"
+  },
+  {
+    "terim": "Faş etmek",
+    "anlam": "İfşa etmek; açıklamak; sırları açıklamak, gizli olanı açığa vurmak,",
+    "harf": "F"
+  },
+  {
+    "terim": "Gabin",
+    "anlam": "1) bir sözleşmede tarafların karşılıklı edimleri arasında açık bir orantısızlık bulunmasıdır. karşı tarafın özel durumundan aşırı faydalanma olarak da nitelenebilir*. gabin durumunda zarar gören taraf bir yıl içinde sözleşmeyi bozduğunu bildirerek verdiği",
+    "harf": "G"
+  },
+  {
+    "terim": "Gaî (gaiye)",
+    "anlam": "Gaye, maksat ve netice ile ilgili; amaca ilişkin",
+    "harf": "G"
+  },
+  {
+    "terim": "Gaip",
+    "anlam": "Görünmeyen; hazır olmayan; yitik; yok olan kişi; kaybolan ve kendisinden uzun zaman haber alınamayan kişi",
+    "harf": "G"
+  },
+  {
+    "terim": "Galle",
+    "anlam": "Gelir; hasılat; yarar",
+    "harf": "G"
+  },
+  {
+    "terim": "Garamat",
+    "anlam": "Tazminat, diyat gibi edası lazımgelen şeylerdir.",
+    "harf": "G"
+  },
+  {
+    "terim": "Garaz",
+    "anlam": "(garez)gizli düşmanlık; asıl maksat; erek; amaç; hınç",
+    "harf": "G"
+  },
+  {
+    "terim": "garp",
+    "anlam": "batı",
+    "harf": "G"
+  },
+  {
+    "terim": "Gars",
+    "anlam": "Ağaç dikme",
+    "harf": "G"
+  },
+  {
+    "terim": "Gasıb",
+    "anlam": "Başkasının bir eşya, para yada kıymetli malını elinden veya tasarrufundan zorla haksız yere alan kimse",
+    "harf": "G"
+  },
+  {
+    "terim": "Gasp",
+    "anlam": "Başkasının bir eşya, para yada kıymetli malını elinden veya tasarrufundan zorla ve haksız alınması",
+    "harf": "G"
+  },
+  {
+    "terim": "Gaybubet",
+    "anlam": "Kaybolma; yokluk; göz önünde olmayış; yitiklik",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayr (gayir)",
+    "anlam": "Ayrı; başka; özge; artık; diğer; yabancı",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayrı vazıh",
+    "anlam": "Kapalı",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayr-i melhûz",
+    "anlam": "Beklenmedik; imkansız; olanaksız",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayr-i mümkün",
+    "anlam": "Olanaksız; imkansız",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayrimenkul",
+    "anlam": "Bir yerden bir yere taşınması olanaksız (taşınmaz) mal.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayrimenkul mükellefiyet",
+    "anlam": "Bir taşınmaz malikinin, sahip olduğu mülkü nedeniyle ve özellikle o taşınmaz (gayrimenkul) teminat olmak üzere, diğer bir kimse lehine bir şey yapmaya veya vermeye zorunlu tutulması.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayrimenkul tellallığı",
+    "anlam": "Taraflar arasında (hiçbirine sürekli olarak bağlı olmaksızın), taşınmaza ilişkin sözleşmelerin (kira, satım vb.) yapılması hususunda ücret karşılığında aracılık etme mesleği; emlakçılık.",
+    "harf": "G"
+  },
+  {
+    "terim": "Geçici tescil",
+    "anlam": "Halen varolup da uyuşmazlığa neden olan ayni hakların korunması amacıyla tapu kütüğüne yapılan tescil.",
+    "harf": "G"
+  },
+  {
+    "terim": "Geçit hakkı",
+    "anlam": "Bir taşınmaz üzerinden başka bir taşınmaz malikinin geçebilmesi için kurulan bir ayni hak.",
+    "harf": "G"
+  },
+  {
+    "terim": "Genel idare",
+    "anlam": "Bütün ülkeyi kapsayan idare olup merkez teşkilatı\"\" ve \"\"taşra teşkilatı\"\"ndan oluşur.\"",
+    "harf": "G"
+  },
+  {
+    "terim": "Genel vekaletname",
+    "anlam": "Bir kimsenin, kendi adına her türlü işi yapması için başka bir kişiye vermiş olduğu vekillik belgesi.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gerçek kişi",
+    "anlam": "İnsanlar.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gerçi",
+    "anlam": "Gerçekten; vakıa",
+    "harf": "G"
+  },
+  {
+    "terim": "Gıyâb",
+    "anlam": "Hazır ve mevcut olmama; göz önünde bulunmama; uzaklaşma; kaybolma; arka",
+    "harf": "G"
+  },
+  {
+    "terim": "Girift",
+    "anlam": "Dolaşık; karışık; bir birinin içine girgin; tutma; yakalama",
+    "harf": "G"
+  },
+  {
+    "terim": "Grev",
+    "anlam": "Işçilerin aralarında anlaşarak veya bir kurululun kararına uyarak topluca iş bırakmalarıdır.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gûna (gûne)",
+    "anlam": "Türlü; gidiş; tarz; yol; sıfat",
+    "harf": "G"
+  },
+  {
+    "terim": "Güzeran",
+    "anlam": "Geçici; geçen",
+    "harf": "G"
+  },
+  {
+    "terim": "Garra",
+    "anlam": "Parlak, beyaz, güzel, Şa'şaalı.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gayr-i müsavat",
+    "anlam": "Eşitsizlik",
+    "harf": "G"
+  },
+  {
+    "terim": "gayri kabili rücu",
+    "anlam": "Geri dönülemez",
+    "harf": "G"
+  },
+  {
+    "terim": "Gaiplik",
+    "anlam": "Ölüm tehlikesi içinde kayıp olmak ya da uzun süre haber alınamaması durumudur.",
+    "harf": "G"
+  },
+  {
+    "terim": "Gaiplik Karinesi",
+    "anlam": "Bir kimsenin, ölüm tehlikesi içerisinde kaybolması ve uzun süre haber alınamaması sonucunda, yargıç kararıyla hukuki kişiliğine son verilmesidir.",
+    "harf": "G"
+  },
+  {
+    "terim": "Garameten",
+    "anlam": "Herkese eşit olarak",
+    "harf": "G"
+  },
+  {
+    "terim": "galiz",
+    "anlam": "Kaba ve çirkin, iğrenç.",
+    "harf": "G"
+  },
+  {
+    "terim": "Garantör",
+    "anlam": "Güvence veren ve bunun gerçekleşmesini gözeten ve denetleyen kimse, kuruluş veya devlet.",
+    "harf": "G"
+  },
+  {
+    "terim": "Garantörlük",
+    "anlam": "Garantör olma durumu.",
+    "harf": "G"
+  },
+  {
+    "terim": "GARDİYAN",
+    "anlam": "Cezaevlerinde düzeni, tutukluların kurallara uygun biçimde davranmalarını sağlamakla görevli kimse.",
+    "harf": "G"
+  },
+  {
+    "terim": "gayr-i resmî",
+    "anlam": "Devletin yürürlükte bulunan kanunları dışında kalan, kanun dışı, yasa dışı olan uygulamalar",
+    "harf": "G"
+  },
+  {
+    "terim": "Kod Kanun",
+    "anlam": "Bir alanda yeni baştan düzenleme yapan kanundur. Örneğin 1983 tarihli ve 2872 Sayılı 'Çevre Kanunu' bir kod kanun, bu Kanunda değişiklik öngören herhangi bir kanun ise çerçeve kanundur.",
+    "harf": "Ğ"
+  },
+  {
+    "terim": "vedia",
+    "anlam": "Bir kimseye, bir şeyin korunması ve gereğinde geri verilmesi için bırakılan eşya, emanet.",
+    "harf": "Ğ"
+  },
+  {
+    "terim": "müstenif",
+    "anlam": "istinaf eden",
+    "harf": "Ğ"
+  },
+  {
+    "terim": "usül",
+    "anlam": "bir kimsenin kendisinden geriye doğru kan bağı olan kimseler, ana, baba, dedeleri ve nineleri., yukarıya doğru devam eden üst soy hısımlar",
+    "harf": "Ğ"
+  },
+  {
+    "terim": "muhami",
+    "anlam": "avukat",
+    "harf": "Ğ"
+  },
+  {
+    "terim": "Hacet",
+    "anlam": "Gerek; gereklilik",
+    "harf": "H"
+  },
+  {
+    "terim": "Hacir",
+    "anlam": "Bir şahsın medeni haklarını kullanma salahiyetinin mahkeme tarafından kaldırılması.",
+    "harf": "H"
+  },
+  {
+    "terim": "Haciz",
+    "anlam": "Borçlunun, borcunu kendi arzusu ile ödememesi durumunda, alacaklının talebiyle, borçlunun (borca yetecek miktardaki) mal ve haklarına devlet aracılığıyla (icra dairesi tarafından) el konulması.",
+    "harf": "H"
+  },
+  {
+    "terim": "Hâdis",
+    "anlam": "Meydana gelen; çıkan; yeni çıkan",
+    "harf": "H"
+  },
+  {
+    "terim": "Hafiyyen",
+    "anlam": "Gizli olarak; saklı olarak; gizlice",
+    "harf": "H"
+  },
+  {
+    "terim": "Hafriyat",
+    "anlam": "Kazı; kazılar; toprak kazma; toprak çıkarma",
+    "harf": "H"
+  },
+  {
+    "terim": "Hail",
+    "anlam": "Duvar, çit, parmaklık, tahta perde gibi taşınmazları birbirinden ayıran işaret ve engeller",
+    "harf": "H"
+  },
+  {
+    "terim": "Haiz",
+    "anlam": "Sahip; elde bulunduran; taşıyan",
+    "harf": "H"
+  },
+  {
+    "terim": "Hak",
+    "anlam": "Hukuk düzeni tarafından şahıslara tanınmış olan yetkilerdir",
+    "harf": "H"
+  },
+  {
+    "terim": "Hak ehliyeti",
+    "anlam": "Sağ doğmak şartıyla ana rahmine düştüğü andan ölüm anına kadar olan dönemde herkesin sahip olduğu medeni haklardan (evlenme, mülk edinme vb.) yararlanma yeteneği.",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakikiye",
+    "anlam": "Hakikate mensup; gerçek; sahici; doğru; gerçekten",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakk",
+    "anlam": "Doğruluk ve insaf; bir insana ait olan şey; dava ve iddiada hakikate uygunluk; harcanmış emek; pay; hisse",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakkaniyet",
+    "anlam": "Hak ve adalete uygunluk; doğruluk",
+    "harf": "H"
+  },
+  {
+    "terim": "hakkı hıyar",
+    "anlam": "seçimlik hak",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakk-ı mesil",
+    "anlam": "Su yolu hakkı",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakk-ı mürûr",
+    "anlam": "Geçit hakkı",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakk-ı şuf'a",
+    "anlam": "Önalım hakkı",
+    "harf": "H"
+  },
+  {
+    "terim": "Hakk-ı şürb",
+    "anlam": "Içme hakkı; sudan yararlanmada sıra hakkı",
+    "harf": "H"
+  },
+  {
+    "terim": "Haksız fiil",
+    "anlam": "Hukuk düzeninin izin vermediği, zarar verici eylemlerdir",
+    "harf": "H"
+  },
+  {
+    "terim": "Haksız iktisap",
+    "anlam": "Bir kimsenin malvarlığında, haklı bir nedene dayanmaksızın başka bir kimsenin malvarlığı aleyhine meydana gelen artma ya da azalmama durumu",
+    "harf": "H"
+  },
+  {
+    "terim": "Halefiyet",
+    "anlam": "Ardıl, yerine geçme, yerine geçen.",
+    "harf": "H"
+  },
+  {
+    "terim": "Halel",
+    "anlam": "Bozma; bozukluk; eksiklik; zarar",
+    "harf": "H"
+  },
+  {
+    "terim": "Haleldar olmak",
+    "anlam": "Bozulmak; çiğnenmek",
+    "harf": "H"
+  },
+  {
+    "terim": "Hali sabıka irca",
+    "anlam": "Eski hale getirme",
+    "harf": "H"
+  },
+  {
+    "terim": "Halita",
+    "anlam": "Karışım",
+    "harf": "H"
+  },
+  {
+    "terim": "Hapsen Tazyik",
+    "anlam": "Bir kimseyi ifasına mecbur olduğu hususu yapmaya icbar için kanuni salahiyete binaen hapsetmektir.",
+    "harf": "H"
+  },
+  {
+    "terim": "Harâc-ı mukaseme",
+    "anlam": "Arâzî-i hâriciyye mahsullerinden onda birden yarısına kadar alınan vergi",
+    "harf": "H"
+  },
+  {
+    "terim": "Harâc-ı muvazzaf",
+    "anlam": "Arâzî-i hâriciyye üzerine yerin tahammülüne göre,maktûiyet veçhile tayin olunan vergi",
+    "harf": "H"
+  },
+  {
+    "terim": "Hariciye Vekâleti",
+    "anlam": "Dışişleri Bakanlığı",
+    "harf": "H"
+  },
+  {
+    "terim": "Hârîm",
+    "anlam": "Başkasının giremeyeceği,girilmesine izin verilmeyen ev bölümü; harem",
+    "harf": "H"
+  },
+  {
+    "terim": "Harnup",
+    "anlam": "Keçi boynuzu",
+    "harf": "H"
+  },
+  {
+    "terim": "Hartama",
+    "anlam": "Pedavra; köknar ve lâdin ağaçlarından elde edilen, çatı örtüsü olarak kullanılan ince tahta;",
+    "harf": "H"
+  },
+  {
+    "terim": "Has",
+    "anlam": "Sıkıştırmadan bir yerin içine alma; hareketten menetme; etrafını çevirme; vakfetme",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasârât",
+    "anlam": "Zararlar; ziyanlar; hasarlar",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasb-el-kanun",
+    "anlam": "Kanun gereği",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasb-el-memuriyye",
+    "anlam": "Memuriyet gereği",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasebiyle",
+    "anlam": "Yüzünden; dolayısıyla; bu nedenle",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasılat",
+    "anlam": "Gelir.",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasılat Kirası",
+    "anlam": "Kiraya verenin, bir bedel karşılığında, hasılat veren bir malın veya hakkın kullanımını kiracıya bıraktığı sözleşme; ürün kirası.",
+    "harf": "H"
+  },
+  {
+    "terim": "Hasîm",
+    "anlam": "Iki düşmandan herbiri",
+    "harf": "H"
+  },
+  {
+    "terim": "Iade-i muhakeme",
+    "anlam": "Yargılamanın yenilenmesi",
+    "harf": "I"
+  },
+  {
+    "terim": "Iaşe",
+    "anlam": "Yaşatma; besleme; geçinme",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibâre",
+    "anlam": "Deyiş; cümle; paragraf; bir bölüm söz",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibhâm",
+    "anlam": "Kapalı bırakma; açıklamama; belli etmeme; gizli kapaklı tutma",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibka",
+    "anlam": "Devamlı, sürekli kılma; yerinde bırakma",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibra",
+    "anlam": "Aklanma; temize çıkma; aklama; temize çıkarma Alacaklının, borçlusunda bulunan alacağından tamamen veya kısmen vazgeçmesi",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibraz",
+    "anlam": "Gösterme; meydana çıkarma; sunma",
+    "harf": "I"
+  },
+  {
+    "terim": "Ibtida",
+    "anlam": "Başlama; başlangıç; ilkin; en önce; başta",
+    "harf": "I"
+  },
+  {
+    "terim": "Icâb",
+    "anlam": "Gerekme; gerek; bir sözleşme için ilk söylenen söz",
+    "harf": "I"
+  },
+  {
+    "terim": "Icabet etme",
+    "anlam": "Uyma",
+    "harf": "I"
+  },
+  {
+    "terim": "Icabı hal",
+    "anlam": "Durumun gereği",
+    "harf": "I"
+  },
+  {
+    "terim": "Icar",
+    "anlam": "Kiraya verme; kiraya verilme",
+    "harf": "I"
+  },
+  {
+    "terim": "Icâre-i müeccele",
+    "anlam": "Sonradan alınacak kira",
+    "harf": "I"
+  },
+  {
+    "terim": "Icareteynli vakıf",
+    "anlam": "Ivedili ve süreye bağlı kira sözleşmesi olan vakıf mallar",
+    "harf": "I"
+  },
+  {
+    "terim": "Icazet",
+    "anlam": "Izin; ruhsat, diploma",
+    "harf": "I"
+  },
+  {
+    "terim": "Icâzet-i lâhika",
+    "anlam": "Bir kimsenin izni olmadığı halde,yapıldıktan sonra bir şeyi kabul etmesi ve onaylaması",
+    "harf": "I"
+  },
+  {
+    "terim": "Icbar",
+    "anlam": "Zorlamak",
+    "harf": "I"
+  },
+  {
+    "terim": "Icbar etme",
+    "anlam": "Zorlama",
+    "harf": "I"
+  },
+  {
+    "terim": "Icmâl",
+    "anlam": "Kısaltma; özetleme; öz; özet genel toplamı",
+    "harf": "I"
+  },
+  {
+    "terim": "Icra tetkik mercii",
+    "anlam": "İcra-İflas dairesinin üzerinde olup, icra-iflas işlemlerinin doğru ve kanuna uygun olup olmadığını denetleyen ve ayrıca kanunun kendisine verdiği dava ve işleri gören özel mahkeme.",
+    "harf": "I"
+  },
+  {
+    "terim": "Içtihad",
+    "anlam": "Özel görüş; anlayış; kavrayış",
+    "harf": "I"
+  },
+  {
+    "terim": "Içtima",
+    "anlam": "Toplanma; toplantı; bir araya gelme",
+    "harf": "I"
+  },
+  {
+    "terim": "Içtimaî",
+    "anlam": "Sosyal; toplumsal",
+    "harf": "I"
+  },
+  {
+    "terim": "Içtinap",
+    "anlam": "Kaçınma; çekinme",
+    "harf": "I"
+  },
+  {
+    "terim": "Idame",
+    "anlam": "Devam ettirme; sürdürme",
+    "harf": "I"
+  },
+  {
+    "terim": "Idâre-i husûsiyye",
+    "anlam": "Il özel idaresi",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifa",
+    "anlam": "Ödeme; yerine getirme; bir işi yapma; edim",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifadat",
+    "anlam": "Sözler",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifade",
+    "anlam": "Anlatma; anlatış; anlatım",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifham",
+    "anlam": "Anlatma; anlatılma; bildirme; bildirilme",
+    "harf": "I"
+  },
+  {
+    "terim": "Iflas",
+    "anlam": "Borcunu ödemeyen veya ödemelerini tatil eden borçlu hakkında yapılan takip sonucunda, mahkeme kararı ile tespit ve ilan edilen durum.",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifrağ",
+    "anlam": "Bir durumdan başka bir duruma sokma",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifraz",
+    "anlam": "Arazinin parçalanması; bölünmesi; parsellere ayırma; araziyi imar açısından uygun parçalara bölme",
+    "harf": "I"
+  },
+  {
+    "terim": "Ifşasına müeddi",
+    "anlam": "Açıklanma gereği",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihale",
+    "anlam": "Artırma veya eksiltme biçimiyle yapılan ve en uygun fiyatı teklif edene (en çok artıran veya eksiltene) işin/malın verildiği sözleşme yöntemi.",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihâta",
+    "anlam": "Bir şeyin etrafını çevirme; sarma; kuşatma; etrafı çevrilme; anlayış; geniş bilgi",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihbar",
+    "anlam": "Haber verme; bildirme; bildirim",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihdas",
+    "anlam": "Ortaya çıkarma; kurma; bir şeyi ilk kez ortaya koyma",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihfa",
+    "anlam": "Saklama",
+    "harf": "I"
+  },
+  {
+    "terim": "Ihkak-ı hak",
+    "anlam": "Kendiliğinden hak alma",
+    "harf": "I"
+  },
+  {
+    "terim": "İade",
+    "anlam": "Geri verme; geri çevirme; eski duruma getirme",
+    "harf": "İ"
+  },
+  {
+    "terim": "İade-i Muhakeme",
+    "anlam": "Muhakemenin iadesi.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İbra",
+    "anlam": "Bir kimsenin zimmetini haktan beri kılmaktır ki, iki kısımdır : biri ibra-i iskat, diğeri ibra-i istifadır.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İbraz",
+    "anlam": "Ticari senetler muamelelerinde senedi, hamilin muhataba veya borçluya göstererek kabulünü veya tediyesini istemesine denir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İcap",
+    "anlam": "İnşayı tasarruf için iptida söylenilen sözdür ki tasarruf onunla ispat olunur.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İcar",
+    "anlam": "Kira",
+    "harf": "İ"
+  },
+  {
+    "terim": "İcmâl",
+    "anlam": "Özet, kısaltma, yorum",
+    "harf": "İ"
+  },
+  {
+    "terim": "İcra",
+    "anlam": "Bir mahkemenin ilamının veya idari bir kararın hükmünün yerne getirmek demektir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İcra Vekilleri Heyeti",
+    "anlam": "Bakanlar Kurulu",
+    "harf": "İ"
+  },
+  {
+    "terim": "İctima",
+    "anlam": "Toplantı, toplanmak, biraraya gelmek",
+    "harf": "İ"
+  },
+  {
+    "terim": "İçtihat",
+    "anlam": "Herhangi bir hukuki mesele hakkında hukuk alimlerinin fikir ve mütalâalarıdır.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İddianame",
+    "anlam": "Soruşturma sonunda savcının topladığı delilleri, şüphelilerin cezalandırılmasını talep ettiği kanun hükümlerini ve bu hükümlerde yer alan karşılıklarını, gerekçeleri ve kurduğu illiyet bağı ile birlikte izah-talep ettiği metin.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfa",
+    "anlam": "Yerine getirme",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfa Etmek",
+    "anlam": "Yapmış olmak, yerine getirmek",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfrat",
+    "anlam": "Herhangi bir konuda aşırı gitme, aşırılık",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfraz",
+    "anlam": "Ayırmak, tefrik etmek.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfsat",
+    "anlam": "Karışıklık, düzeni bozma",
+    "harf": "İ"
+  },
+  {
+    "terim": "İfşa",
+    "anlam": "Açığa çıkarma, açığa vurma.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhraz",
+    "anlam": "Kazanmak, elde etmek.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhsas.",
+    "anlam": "Kapalıca anlatım, hissettiriş.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhsas-ı Rey",
+    "anlam": "1- Tarafını belli etmek 2- Hakimin devam etmekte olan davaya ilişkin görüşünü ( kararını ) belli ederek davanın seyrini etkilemesidir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhticaca Salih Olmak",
+    "anlam": "Yazılı bir belegenin delil olabilme gücüne sahip olması.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhtilaf",
+    "anlam": "Anlaşmazlık, çekişme. Aykırılık. Söz, tutum, durum ve davranışlarda birbirine aykırı ve muhalif olma. Çelişki.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhtilat",
+    "anlam": "Katılma, başkalarıyla ilişkilerde bulunma, haberdar yaşam.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhtira",
+    "anlam": "Bilimsel buluşlar üzerindeki haklar",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhtirazi Kayıt",
+    "anlam": "Muayyen hakları kullanmak hususunda serbestisini muhafaza etmek isteyen tarafın bu hususta vaki beyanıdır.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhtiyati Haciz",
+    "anlam": "Rehinle temin edilmemiş ve vadesi gelmiş bir borcun alacaklısının, borçlunun elinde veya üçüncü şahısta olan menkul ve gayrimenkul mallarını ve alacaklariyle diğer haklarını ihtiyaten haczettirebilmesidir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İhzar",
+    "anlam": "Hazır bulundurma, hazır hale getirme. Duruşmalarda hâkim önünde hazır bulundurma.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İkale",
+    "anlam": "Bir hukuki muamelenin vücut verdiği bir vaziyeti, ikinci bir hukuki muamele ile eski haline getirmek demektir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İkametgâh",
+    "anlam": "Mesken, konut, ikâmet edilen yer. Bir kimsenin yerleşmek niyetiyle oturduğu yer. Herkesin bir tek ikâmetgâhı vardır. Tüzelkişilerin bazen birden çok ikâmetgâhı bulunabilmektedir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İkmal",
+    "anlam": "Eksik malzemenin tamamlanması,temin edilmesi.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İkrar",
+    "anlam": "Aleyhine hukuki neticeler husule getirebilen maddi veya hukuki bir vakıanın doğruluğunu tasdiktir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İktisap",
+    "anlam": "Bir şeyin mülkiyetini elde etmek demektir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İktisat Vekâleti",
+    "anlam": "Ekonomi Bakanlığı",
+    "harf": "İ"
+  },
+  {
+    "terim": "İktizâ",
+    "anlam": "Gerek;lüzüm.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İlam",
+    "anlam": "Bir davanın mahkemece nasıl bir hükme bağlandığını gösteren resmi vesikalar; kararı bildiren belge.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İlga",
+    "anlam": "Kanun, tüzük veya yönetmeliklerin yeni bir kanun, tüzük veya yönetmelikle yürürlükten kaldırılmasıdır.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İlliyet bağı",
+    "anlam": "Nedensellik bağı; bir neden ile ortaya çıkan sonuç arasındaki ilişki.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İltibas",
+    "anlam": "Karistirilma; benzeşim; karışıklık.",
+    "harf": "İ"
+  },
+  {
+    "terim": "İltihak",
+    "anlam": "Başka devletler tarafından imza edilmiş bulunan bir muahedeye iştirak etmek isteyen diğer bir devletin müracaat ettiği hukuki muameleye denir.",
+    "harf": "İ"
+  },
+  {
+    "terim": "Kod Kanun",
+    "anlam": "Bir alanda yeni baştan düzenleme yapan kanundur. Örneğin 1983 tarihli ve 2872 Sayılı 'Çevre Kanunu' bir kod kanun, bu Kanunda değişiklik öngören herhangi bir kanun ise çerçeve kanundur.",
+    "harf": "J"
+  },
+  {
+    "terim": "vedia",
+    "anlam": "Bir kimseye, bir şeyin korunması ve gereğinde geri verilmesi için bırakılan eşya, emanet.",
+    "harf": "J"
+  },
+  {
+    "terim": "müstenif",
+    "anlam": "istinaf eden",
+    "harf": "J"
+  },
+  {
+    "terim": "usül",
+    "anlam": "bir kimsenin kendisinden geriye doğru kan bağı olan kimseler, ana, baba, dedeleri ve nineleri., yukarıya doğru devam eden üst soy hısımlar",
+    "harf": "J"
+  },
+  {
+    "terim": "muhami",
+    "anlam": "avukat",
+    "harf": "J"
+  },
+  {
+    "terim": "Kaanî",
+    "anlam": "Kanaat eden; yeter bulup fazlasını istemeyen; inanmış; kanmış",
+    "harf": "K"
+  },
+  {
+    "terim": "Kaasır",
+    "anlam": "Zorla işleten; kısa",
+    "harf": "K"
+  },
+  {
+    "terim": "Kabil",
+    "anlam": "Kabul eden; kabul edici; olan; olabilir",
+    "harf": "K"
+  },
+  {
+    "terim": "Kabl-el-işgal",
+    "anlam": "Işgalden önce",
+    "harf": "K"
+  },
+  {
+    "terim": "Kabul",
+    "anlam": "İcabın karşı tarafça olumlu biçimde cevaplandırılması.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kabz",
+    "anlam": "Alma; elde tutma; edinme",
+    "harf": "K"
+  },
+  {
+    "terim": "Kabzeylemek",
+    "anlam": "Almak; elde tutmak; edinmek",
+    "harf": "K"
+  },
+  {
+    "terim": "Kadastro",
+    "anlam": "Arazilerin,arsaların yerini, alanını, sınırlarını ve sahiplerini belirtip plana bağlama işi;",
+    "harf": "K"
+  },
+  {
+    "terim": "Kadîm",
+    "anlam": "Çok eski zaman; eski",
+    "harf": "K"
+  },
+  {
+    "terim": "Kadri maruf",
+    "anlam": "Takdir edilen miktar.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kadük olma",
+    "anlam": "Değer yitimi.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kâffe",
+    "anlam": "Hep; bütün; cümle",
+    "harf": "K"
+  },
+  {
+    "terim": "Kâfi",
+    "anlam": "Yeter; yeterli",
+    "harf": "K"
+  },
+  {
+    "terim": "Kagir",
+    "anlam": "Taş veya tuğladan imal edilmiş yapı; kargir.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kaide",
+    "anlam": "Kural; usul; ilke; prensip; esas; temel;yol; taban; ayaklık",
+    "harf": "K"
+  },
+  {
+    "terim": "Kaim",
+    "anlam": "Başka bir şeyin ya da kişinin yerine geçen",
+    "harf": "K"
+  },
+  {
+    "terim": "Kâim",
+    "anlam": "Başka bir şeyin ya da kişinin yerine geçen.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kaime",
+    "anlam": "Kağıt para",
+    "harf": "K"
+  },
+  {
+    "terim": "Kal'",
+    "anlam": "Koparma; sökme; çıkarma; çıkarılma; temelinden çekip alma",
+    "harf": "K"
+  },
+  {
+    "terim": "Kalbetme",
+    "anlam": "Değiştirme; çevirme",
+    "harf": "K"
+  },
+  {
+    "terim": "Kambiyo senetleri",
+    "anlam": "Poliçe, çek ve bonodan ibarettir.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kambiyo taahhüdü",
+    "anlam": "Ticari bir senet üzerine imza koymak suretiyle doğan soyut borç.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu düzeni",
+    "anlam": "Bir ülkedeki kurum ve kuralların, devletin güvenliğini, kamu hizmetlerinin iyi işlemesini ve bireyler arasındaki ilişkilerde huzuru, hukuk ve ahlak kurallarına uygunluğu sağlamasıyla oluşan düzen.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu haczi",
+    "anlam": "Devletin, Vergi Usul Kanunu kapsamına giren vergi, resim, harç ve bunlara bağlı ceza, faiz ve zamlar ile kamu hizmetleri uygulamasından doğan ve ödenmeyen alacakları nedeniyle, borçlu durumundaki kişilerin mal ve haklarına el koyması.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu hakları",
+    "anlam": "Şahıslar ile devlet arasındaki ilişkiyi düzenleyen hukuk kurallarından, yani kamu hukukundan doğan haklardır.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu hizmeti",
+    "anlam": "Devlet veya diğer kamu tüzel kişileri tarafından veya bunların gözetimi ve denetimi altındaki diğer kişilerce, kamunun genel ve ortak gereksinimlerini sağlamaya yönelik olarak sürdürülen faaliyetler.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu hukuku",
+    "anlam": "Devletin örgütlenmesi, faaliyetleri, yetki ve görevleri ile devletle kişiler arasındaki ilişkileri düzenleyen hukuk dalı.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu malları",
+    "anlam": "Özel mülkiyete konu olamayan ve doğrudan doğruya kamunun (halkın) yararlanmasına ayrılan mallar.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu tüzel kişileri",
+    "anlam": "Tamamen kamu yararının gerçekleşmesi için çalışan ve kamu gücü kullanan, kanunla veya kanunun verdiği açık yetkiyle kurulan kamu idare ve kurumları.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamu Yararı",
+    "anlam": "Kamunun, ulusal birliğin ve devletin gereksinimleriyle ilgili ve bunlara uygun olan durum.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kamulaştırma",
+    "anlam": "Devlet veya kamu tüzel kişilerinin, kamu yararının gerektirdiği durumlarda ve karşılığını (bedelini) peşin ödemek koşuluyla, özel mülkiyette bulunan taşınmaz malların tamamını veya bir kısmını, kanunda gösterilen usullere göre mülk edinmesi.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanaatbahş",
+    "anlam": "Inandırıcı",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanun",
+    "anlam": "Anayasanın yetkili kıldığı organ tarafından bir şekilde ve bu ad altında tespit edilmiş bulunangenel, sürekli ve soyut hukuk kurallarıdır.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanun hükmünde kararnameler",
+    "anlam": "TBMM' nin bir kanunla yetki vermesi üzerine Bakanlar Kurulu tarafından belli konuları düzenlemek amacıyla çıkarılan yazılı hukuk kurallarıdır.",
+    "harf": "K"
+  },
+  {
+    "terim": "kanun sözcüsü",
+    "anlam": "savcı",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanun tasarısı",
+    "anlam": "Nakanlar kurulunun hazırlayarak TBMM ' ne sunduğu kanun projeleridir.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanuni intifa hakkı",
+    "anlam": "Kanun tarafından bazı kişilere tanınan ve hakkı doğuran olayın ortadan kalkmasıyla son bulan; hak sahibine, başkasına ait bir mal (hak) üzerinde kullanma ve ürünlerinden yararlanma yetkisi veren bir irtifak hakkı.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanuni ipotek hakkı",
+    "anlam": "Kanunun öngördüğü bazı durumlarda, bazı kişilerin (kanun gereği) sahip olduğu ipotek kurma hakkı.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanuni müşavir",
+    "anlam": "Vesayet altına alınmasına gerek olmayan ancak fiil ehliyetinden kısmen mahrum edilmesi kendi yararına olan reşit kimseye, bazı işler için görüşü alınmak üzere mahkemece atanan danışman.",
+    "harf": "K"
+  },
+  {
+    "terim": "Kanuni şuf'a hakkı",
+    "anlam": "Kanundan (müşterek mülkiyet hakkından) doğan ve hissedarlık (paydaşlık) devam ettiği müddetçe varlığını koruyan, hak konusu şeyin bir üçüncü kişiye satılması halinde hak sahibine o şeyi öncelikle satın alma yetkisi veren hak.",
+    "harf": "K"
+  },
+  {
+    "terim": "Laakal",
+    "anlam": "En az",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâ-akall",
+    "anlam": "En azından; daha aşağı olmaz",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâfz (lafız)",
+    "anlam": "Söz",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâhik",
+    "anlam": "Yetişen; ulaşan; eklenen; sonradan tayin edilen; yenisi",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâübâlî",
+    "anlam": "Ilişiksiz; kayıtsız; saygısız; senli benli",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâ-yete gayyer",
+    "anlam": "Sabit; değişmez; bozulmaz",
+    "harf": "L"
+  },
+  {
+    "terim": "Layiha",
+    "anlam": "Dilekçe; yazılı dilek; istek; tasarı",
+    "harf": "L"
+  },
+  {
+    "terim": "Lede-l-hâce",
+    "anlam": "Hacet,ihtiyaç görüldüğü zaman",
+    "harf": "L"
+  },
+  {
+    "terim": "Ledelicap",
+    "anlam": "Icap ettiğinde",
+    "harf": "L"
+  },
+  {
+    "terim": "Levâzım",
+    "anlam": "Gerekli şeyler; malzeme; malzemeler",
+    "harf": "L"
+  },
+  {
+    "terim": "Literatür",
+    "anlam": "herhangi bir bilim dalinda yazilmiş olan yazi veya eserlerin bütünü.",
+    "harf": "L"
+  },
+  {
+    "terim": "Livâ'",
+    "anlam": "Bayrak; mülkî idarede kazâ ile vilâyet arasında bir derece; sancak",
+    "harf": "L"
+  },
+  {
+    "terim": "Lokavt",
+    "anlam": "İşveren tarafından kendi teşebbüsüyle veya bir işveren kuruluşun kararına uyarak işçilerin topluca işten uzaklaştırılmasıdır",
+    "harf": "L"
+  },
+  {
+    "terim": "Lükata",
+    "anlam": "Buluntu; sokakta bulunup alınan sahibi belli olmayan şey.",
+    "harf": "L"
+  },
+  {
+    "terim": "Liyakat",
+    "anlam": "Layık olma, yaraşırlık, uygunluk, değim",
+    "harf": "L"
+  },
+  {
+    "terim": "Lâ-yüs'el",
+    "anlam": "Yaptığından sorumlu tutulmayan, yaptığı hakkında soru sorulmayan",
+    "harf": "L"
+  },
+  {
+    "terim": "Leh",
+    "anlam": "Bir şeyden veya bir kimseden yana olma, aleyh karşıtı",
+    "harf": "L"
+  },
+  {
+    "terim": "Levvam",
+    "anlam": "Çekiştiren, dedikodu yapan, başa kalkan",
+    "harf": "L"
+  },
+  {
+    "terim": "Liberal",
+    "anlam": "Kişi özgürlükleri, düşünce özgürlüğü ve siyasi özgürlükler yanlısı kişi; başkalarına karşı hoşgörülü olan kimse, hoşgörüye dayanan tutum.",
+    "harf": "L"
+  },
+  {
+    "terim": "Lehtar",
+    "anlam": "Senet üzerinde adı yazılı olan kişi. Hamiline veya emrine yazılı senetlerde ise lehtar senedi elinde bulunduran ya da emrinde tutan kişidir",
+    "harf": "L"
+  },
+  {
+    "terim": "Literal",
+    "anlam": "Kelimesi kelimesine, her şeyi harfi harfine yerine getiren, yalın sade.",
+    "harf": "L"
+  },
+  {
+    "terim": "Lahiya",
+    "anlam": "Gerekçeli karardan sonra verilen itiraz.",
+    "harf": "L"
+  },
+  {
+    "terim": "Lalettayin",
+    "anlam": "Rastgele, gelişigüzel, sıradan",
+    "harf": "L"
+  },
+  {
+    "terim": "Lehdar",
+    "anlam": "yararlanan. sigortadan faydalanan gerçek ya da tüzel kişi veya kişilerdir.",
+    "harf": "L"
+  },
+  {
+    "terim": "Layüsel",
+    "anlam": "Kendisinden hesap sorulamayan,sorumsuz",
+    "harf": "L"
+  },
+  {
+    "terim": "Likit alacak",
+    "anlam": "Tutarı belli (muayyen), bilinebilir, hesaplanabilir alacak anlamındadır.",
+    "harf": "L"
+  },
+  {
+    "terim": "Lağvetmek",
+    "anlam": "1- Bir kuruluşu kaldırmak, işleyişine son vermek. 2- Hükümsüz kılmak, feshetmek, dağıtmak.",
+    "harf": "L"
+  },
+  {
+    "terim": "Levazım",
+    "anlam": "Gerekli olan şeyler, gereçler.",
+    "harf": "L"
+  },
+  {
+    "terim": "Liyakat",
+    "anlam": "1.layık olma, yaraşma, yaraşırlık, uygunluk. 2.yeterlilik, yetenek",
+    "harf": "L"
+  },
+  {
+    "terim": "Maada",
+    "anlam": "…başka",
+    "harf": "M"
+  },
+  {
+    "terim": "Maarif",
+    "anlam": "Tahsil ile elde edilen ilim, malûmat, bilgi. meharet. üstadlık. hüner.",
+    "harf": "M"
+  },
+  {
+    "terim": "Madde-i sabıka",
+    "anlam": "Yukardaki hükümler; geçen hükümler; daha önce anılan maddeler",
+    "harf": "M"
+  },
+  {
+    "terim": "Maddi edim",
+    "anlam": "Borçlunun malvarlığı ile ifa edeceği edim türü",
+    "harf": "M"
+  },
+  {
+    "terim": "Maddi mal",
+    "anlam": "Taşınır ve taşınmaz mallar gibi fiziksel varlığı olan, gözle görülüp elle tutulabilen mal.",
+    "harf": "M"
+  },
+  {
+    "terim": "Madrûb",
+    "anlam": "Dövülmüş; darbolunmuş; vurulmuş",
+    "harf": "M"
+  },
+  {
+    "terim": "Ma'dûd",
+    "anlam": "Sayılı;",
+    "harf": "M"
+  },
+  {
+    "terim": "Madun",
+    "anlam": "Alt aşamada bulunan, birinin buyruğu altında görevli,Ast.",
+    "harf": "M"
+  },
+  {
+    "terim": "Mafevk",
+    "anlam": "Üst",
+    "harf": "M"
+  },
+  {
+    "terim": "Mağsûb",
+    "anlam": "Gasbedilmiş; zorla alınmış mahal yer",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahalli hukuk",
+    "anlam": "Yöresel dar hukuk.",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahalli idareler",
+    "anlam": "Köy, kasaba ve şehir adı verilen belli yerleşim alanlarındaki mahalli ihtiyaçları gidermek üzere çeşitli kamu hizmetlerini yürütmekte olan kuruluşlardır",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahcur",
+    "anlam": "Vesayet altına alınmış kişi; kısıtlı",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahcuz",
+    "anlam": "Haczedilen; hacizli; üzerine haciz konulmuş",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahdut",
+    "anlam": "Sınırlanmış; tahdit edilmiş",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahfuz",
+    "anlam": "Saklı; gizli",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahir",
+    "anlam": "Becerikli - İşinin Ehli.",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahiyet",
+    "anlam": "Nitelik; bir şeyin aslı, esası, içyüzü",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahkumunbih",
+    "anlam": "Hüküm konusu",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahlûl",
+    "anlam": "Hallolunmuş; çözülmüş; mirasçısı bulunmayan ve hükümete kalan",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahpus",
+    "anlam": "İradesi dışında, bir mekanda tutulan, hapsedilen",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahrukat",
+    "anlam": "Yakacak,yakıt.",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahrum",
+    "anlam": "Yoksun; dilediğini, istediğini elde edemeyen",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahsulât",
+    "anlam": "Mahsuller; ürünler",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahsup",
+    "anlam": "Hesap edilmiş; hesaba dahil edilmiş",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahsus",
+    "anlam": "Özgü; özel; müstakil; özel olarak",
+    "harf": "M"
+  },
+  {
+    "terim": "Mahzar",
+    "anlam": "Erişen, ulaşan.",
+    "harf": "M"
+  },
+  {
+    "terim": "Makable Şamil",
+    "anlam": "Geçmişe uygulanan, geçmişe şâmil olan.",
+    "harf": "M"
+  },
+  {
+    "terim": "Makable şâmil",
+    "anlam": "Geçmişe dokunan; geçmişe etkili olan; geçmişteki olayları da etkileyen",
+    "harf": "M"
+  },
+  {
+    "terim": "Makable teşmil",
+    "anlam": "Bir hükmün etkisinin geriye yürütülmesi",
+    "harf": "M"
+  },
+  {
+    "terim": "Makaddim",
+    "anlam": "Takdim eden dilediğini öne alan ve ileri geçiren,her şeyi yerli yerine koyan demektir.",
+    "harf": "M"
+  },
+  {
+    "terim": "Makrûn",
+    "anlam": "Yakınlaştırılmış; yaklaştırılmış; yakın; ulaşmış",
+    "harf": "M"
+  },
+  {
+    "terim": "Maksûr",
+    "anlam": "Kasrolunmuş; kısıtlanmış; kısıtlı",
+    "harf": "M"
+  },
+  {
+    "terim": "MAKSUT",
+    "anlam": "KAST EDİLEN- İSTENİLEN GÜDÜLEN AMAÇLANAN.",
+    "harf": "M"
+  },
+  {
+    "terim": "Maktu",
+    "anlam": "Götürü; belirli; miktarda; değeri biçilmiş; pazarlıksız",
+    "harf": "M"
+  },
+  {
+    "terim": "Maktul",
+    "anlam": "Kasten öldürülen kişi.",
+    "harf": "M"
+  },
+  {
+    "terim": "Makul",
+    "anlam": "Akla Uygun- Mantıklı- Ölçülü.",
+    "harf": "M"
+  },
+  {
+    "terim": "Makule",
+    "anlam": "Çeşit; tür; soy",
+    "harf": "M"
+  },
+  {
+    "terim": "Mal",
+    "anlam": "Hakikî veya hükmî bi kimsenin mülkiyeti altında bulunan, taşınır veya taşınmaz varlıkların bütünü (Varlık, servet, para, ticaret eşyası gibi.)",
+    "harf": "M"
+  },
+  {
+    "terim": "Mal birliği",
+    "anlam": "Eşlerin, (evlilik sözleşmesinde birliğe dahil olmayacaklarını belirttiği mallar istisna olmak üzere) evlenme zamanında her birinin malik olduğu ve evliliğin devamı süresince mülk edindiği bütün malların dahil olduğu birlik üzerinde kocanın (karının şahsi",
+    "harf": "M"
+  },
+  {
+    "terim": "Nafaka yükümü",
+    "anlam": "Bir kimsenin kanunun öngördüğü yoksulluğa düşmüş olan yakınlarına yardım etmekle yükümlü olmasıdır.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâfıa",
+    "anlam": "Bayındırlık işleri",
+    "harf": "N"
+  },
+  {
+    "terim": "Nağahani",
+    "anlam": "Ansızın",
+    "harf": "N"
+  },
+  {
+    "terim": "Nahiye",
+    "anlam": "Bucak; bölge; kenar; kısım; çevre",
+    "harf": "N"
+  },
+  {
+    "terim": "Nail olmak",
+    "anlam": "Erişmek; kavuşmak",
+    "harf": "N"
+  },
+  {
+    "terim": "Naiplik",
+    "anlam": "Vekâlet",
+    "harf": "N"
+  },
+  {
+    "terim": "nakız",
+    "anlam": "Bozan, bozucu aksini yapan. Bir ibâdetin geçerliliğini önleyen, bozan.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâkız",
+    "anlam": "Bozma; kaldırma;",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâm-ı müstear",
+    "anlam": "Takma ad; eğreti ad nasb atama; tayin etme; dikme; saplama",
+    "harf": "N"
+  },
+  {
+    "terim": "Nası ızrar",
+    "anlam": "Suç olarak düzenlenen mala zarar verme fiili.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâsıb",
+    "anlam": "Nasbeden; diken; tayin eden; atayan",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâşî",
+    "anlam": "Neşet eden; ileri gelen; ötürü; dolayı; sebebiyle",
+    "harf": "N"
+  },
+  {
+    "terim": "Nâtık",
+    "anlam": "Bildiren; bildirici; gösterici; söyleyen; konuşan; idrak eden; düşünen nazara almak göz önüne almak",
+    "harf": "N"
+  },
+  {
+    "terim": "Navlun",
+    "anlam": "Gemi ile yapılan taşımacılıkta sözleşmeyle belirlenen mal taşıma bedeli.",
+    "harf": "N"
+  },
+  {
+    "terim": "Navlun mukavelesi",
+    "anlam": "Deniz yoluyla eşya taşımak üzere yapılan sözleşmedir.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nazarı dikkat",
+    "anlam": "Göz önüne almak",
+    "harf": "N"
+  },
+  {
+    "terim": "Nazır",
+    "anlam": "Bakan, vekil.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nebât",
+    "anlam": "Bitki",
+    "harf": "N"
+  },
+  {
+    "terim": "Nedbe",
+    "anlam": "Yara izi",
+    "harf": "N"
+  },
+  {
+    "terim": "Nef'î",
+    "anlam": "Çıkar ile ilgili; faydacı",
+    "harf": "N"
+  },
+  {
+    "terim": "Nema",
+    "anlam": "Büyüme; gelişme; kazanç; kâr; getiri; faiz",
+    "harf": "N"
+  },
+  {
+    "terim": "Neseben",
+    "anlam": "Soyla ilgili; soy bakımından",
+    "harf": "N"
+  },
+  {
+    "terim": "Nesep",
+    "anlam": "Ana baba ile çocuklar arasındaki hukuki bağ.",
+    "harf": "N"
+  },
+  {
+    "terim": "Neşet etmek",
+    "anlam": "Doğmak; ileri gelmek; kaynaklanmak",
+    "harf": "N"
+  },
+  {
+    "terim": "Netice-i talep",
+    "anlam": "İddia olunan şey.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nevi",
+    "anlam": "Çeşit; tür",
+    "harf": "N"
+  },
+  {
+    "terim": "Nez'",
+    "anlam": "Sökme; kaldırma; yoketme",
+    "harf": "N"
+  },
+  {
+    "terim": "Nezafet",
+    "anlam": "Temizlik,paklık",
+    "harf": "N"
+  },
+  {
+    "terim": "Nezaret",
+    "anlam": "Denetim; gözetim; bakanlık",
+    "harf": "N"
+  },
+  {
+    "terim": "Nezetmek",
+    "anlam": "Kaldırmak; ayırmak; ilişiği koparmak",
+    "harf": "N"
+  },
+  {
+    "terim": "Nısf",
+    "anlam": "Yarım; yarı; yarısı",
+    "harf": "N"
+  },
+  {
+    "terim": "nısıf",
+    "anlam": "yarı pay",
+    "harf": "N"
+  },
+  {
+    "terim": "Nidâ",
+    "anlam": "Çağırma; bağırma; ünlem",
+    "harf": "N"
+  },
+  {
+    "terim": "Nihai karar",
+    "anlam": "Yargılama sonunda verilen karar.\"",
+    "harf": "N"
+  },
+  {
+    "terim": "Nisbî hak",
+    "anlam": "Ancak belirli bir şahsa veya şahıslara karşı ileri sürülebilen daha geniş bir kitleye karşı kullanılma imkanı olmayan sıradan haklar.",
+    "harf": "N"
+  },
+  {
+    "terim": "Nispi muvazaa",
+    "anlam": "Yapılan asıl muamelenin şartlarını ya da konusunu farklı şekilde göstermeleri",
+    "harf": "N"
+  },
+  {
+    "terim": "Niyâbet",
+    "anlam": "Vekillik;",
+    "harf": "N"
+  },
+  {
+    "terim": "Niza",
+    "anlam": "Ihtilaf; çekişme; uyuşmazlık",
+    "harf": "N"
+  },
+  {
+    "terim": "Nizâm-nâme",
+    "anlam": "Tüzük",
+    "harf": "N"
+  },
+  {
+    "terim": "Nizasız ve fasılasız",
+    "anlam": "Uyuşmazlık konusu olmadan ve hiç ara vermeden; ihtilâfsız ve arasız",
+    "harf": "N"
+  },
+  {
+    "terim": "Objektif iyiniyet",
+    "anlam": "İnsanlar arasındaki münasebetleri kanun, örf ve adetten başka tanzim eden ve hukuk dışındaki mevcut olan ahlak, adap, haysiyet, şeref, doğruluk, insaniyet vs. esaslara denir.",
+    "harf": "O"
+  },
+  {
+    "terim": "Olası kast",
+    "anlam": "Kişinin, suçun kanunî tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen, fiili işlemesi hâli.",
+    "harf": "O"
+  },
+  {
+    "terim": "Olveche",
+    "anlam": "O şekilde",
+    "harf": "O"
+  },
+  {
+    "terim": "Onama",
+    "anlam": "Onamak işi, uygun bulma, tasvip.",
+    "harf": "O"
+  },
+  {
+    "terim": "Orta malları",
+    "anlam": "Yollar, köprüler, camiler gibi herkesin kullanabileceği kamu malları.",
+    "harf": "O"
+  },
+  {
+    "terim": "Ortaç",
+    "anlam": "Tümleç olabilen,isim ve sıfat gibi kullanılan fiil asıllı kelime sıfat-fiil. ör: gelen çocuk, adı batası adam.",
+    "harf": "O"
+  },
+  {
+    "terim": "Ortak Yerler",
+    "anlam": "Kat mülkiyetine tabi anagayrimenkulün, kat maliklerince ortaklaşa kullanılıp yararlanılan yerleri.",
+    "harf": "O"
+  },
+  {
+    "terim": "Ordino",
+    "anlam": "1-Bir poliçenin arkasına yazılan havale emri, 2- Tüccarın malını gümrükten çekebilmesi için vapur kumpanyasından yük konşimentosuna karşılık verilen havale, 3- Denizcilik işletmelerinde gemi adamlarını gemilere atama belgesi.",
+    "harf": "O"
+  },
+  {
+    "terim": "Ombudsman",
+    "anlam": "Kamu denetçisi, şikayetleri ve birtakım teşebbüsleri ele alıp değerlendiren ve bunlara her iki taraf için de tatmin edici çözümler bulan kişidir.",
+    "harf": "O"
+  },
+  {
+    "terim": "Onur",
+    "anlam": "Öz saygı",
+    "harf": "O"
+  },
+  {
+    "terim": "ölçü norm",
+    "anlam": "Anayasaya uygunluk denetimine konu olan normların, uygunluk incelemesinde tabi olacakları norm yada normlardır.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Ölüme bağlı tasarruf",
+    "anlam": "Gerçek kişilerin, ölümünden sonra hukuki etki ve hükümler doğurmak üzere yapmış olduğu hukuki işlem.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Ölünceye Kadar bakma akdi",
+    "anlam": "Taraflardan birinin, ölünceye dek bakma ve kendisini görüp gözetme koşuluyla, malvarlığını veya bir kısım malları öbürküne geçirme (intikal ettirme) borcu altına girdiği sözleşme.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Özel haklar",
+    "anlam": "Şahıslar ile şahıslar arasındaki ilişkileri düzenleyen hukuk kurallarından,yani özel hukukundan doğan haklardır.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Özel hukuk",
+    "anlam": "Kişiler arasındaki ilişkileri düzenleyen hukuk dalı.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Özgülemek",
+    "anlam": "Bir şey veya bir yeri birine,bir şeye ayırmak,vermek, hasretmek, tahsis etmek.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Örtülü Boşluk",
+    "anlam": "Somut olaya uygulanacak hükmün, yasada yer almasına rağmen, yeterli biçimde arz olunmamasıdır.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Ölüm Karinesi",
+    "anlam": "Kişinin ölümüne kesin gözle bakılacak şekilde kaybolmasıdır.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Öjenik",
+    "anlam": "genetik olarak insan ırkının ıslahı bilimi",
+    "harf": "Ö"
+  },
+  {
+    "terim": "özelge (Mukteza)",
+    "anlam": "Bir konudaki görüşü ve yapılması gereken uygulamayı bildiren yazı. Mükelleflerin vergi durumları ve uygulanması bakımından tereddüde düştükleri hususlar hakkında bilgi istemeleri üzerine kendilerine yetkili makamlarca yazılı olarak verilen görüşlerdir.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "önel",
+    "anlam": "süre",
+    "harf": "Ö"
+  },
+  {
+    "terim": "öndelik",
+    "anlam": "avans",
+    "harf": "Ö"
+  },
+  {
+    "terim": "ÖNEL",
+    "anlam": "-iş sözleşmesine göre işçinin işten çıkarılması durumunda tanınan belirli süre -bir işin bitirilmesi için tanınan ek süre.",
+    "harf": "Ö"
+  },
+  {
+    "terim": "Pafta",
+    "anlam": "Kadastrosu yapılan yerlerin ada ve parsellerinin, belli ölçülerle çizilmiş haritaları.",
+    "harf": "P"
+  },
+  {
+    "terim": "Parakete",
+    "anlam": "Geminin saatteki hızını anlamak için kullanılan araç.\"",
+    "harf": "P"
+  },
+  {
+    "terim": "Parsel",
+    "anlam": "İmar düzeni bakımından belli ölçüler gözönüne alınarak sınırlandırılmış arazi parçalarından her biri.",
+    "harf": "P"
+  },
+  {
+    "terim": "Paydaş",
+    "anlam": "Bir bütünün belli bir kısmından (paydan) yararlanan; hissedar.",
+    "harf": "P"
+  },
+  {
+    "terim": "Pedavra",
+    "anlam": "Köknar ve lâdin ağaçlarından elde edilen, çatı örtüsü olarak kullanılan ince tahta; hartama.",
+    "harf": "P"
+  },
+  {
+    "terim": "Peşin Harç",
+    "anlam": "İ l a m s ı z takiplerde, takip talebinde bulunan alacaklıdan, alacağın binde beşi oranında tahsil edilen miktar",
+    "harf": "P"
+  },
+  {
+    "terim": "Pey sürmek",
+    "anlam": "Bir sözleşmeyi yapmak için ileri sürülen taminât miktarı önerilen bedel, şart-ı cezâî miktarı.",
+    "harf": "P"
+  },
+  {
+    "terim": "Pozitif hukuk",
+    "anlam": "Belli bir anda belli bir ülkede yürürlükte bulunan hukuk kurallarının tümü.",
+    "harf": "P"
+  },
+  {
+    "terim": "Pedersahi",
+    "anlam": "Ataerkil",
+    "harf": "P"
+  },
+  {
+    "terim": "Plebisit",
+    "anlam": "Halk oylaması",
+    "harf": "P"
+  },
+  {
+    "terim": "Poliçe",
+    "anlam": "Belirli bir sürenin sonunda belirli bir parayı kendi adına veya bir başkasının emrine ödemesi için alacaklının borçluya yazdığı bildiri.",
+    "harf": "P"
+  },
+  {
+    "terim": "Perdebirun",
+    "anlam": "Ağzı bozuk,kötü söz söyleyen, açık saçık konuşan",
+    "harf": "P"
+  },
+  {
+    "terim": "Pratika",
+    "anlam": "Kıyı sağlık idaresi tarafından gemilere verilen giriş çıkış izni",
+    "harf": "P"
+  },
+  {
+    "terim": "Potkal",
+    "anlam": "Kaza veya başka bir olayı karadakilere bildirmek için gemilerden denize salınan,içinde mektup olan şişe",
+    "harf": "P"
+  },
+  {
+    "terim": "Pacta Sunt",
+    "anlam": "Ahde vefa, uluslararası hukuk kurallarının oluşmasında etkili olan ve devletin anayasasında var olan ve devlete antlaşma yapma yetkisi tanıyan kuraldır. Antlaşmalar hukuku kuralıdır. Bu kuralın bağlayıcı niteliği, iyi niyet ilkesine dayanmaktadır.",
+    "harf": "P"
+  },
+  {
+    "terim": "Paraf",
+    "anlam": "1.Yalnız adın veya ad ve soyadın başharfleriyle atılan kısa imza. 2.Bir yazının görüldüğünü, işlem gördüğünü veya o yazıdan haberdar olunduğunu gösteren kısaltılmış imza.",
+    "harf": "P"
+  },
+  {
+    "terim": "Peyderpey",
+    "anlam": "Azar azar, yavaş yavaş",
+    "harf": "P"
+  },
+  {
+    "terim": "persona non grata",
+    "anlam": "istenmeyen kişi",
+    "harf": "P"
+  },
+  {
+    "terim": "Peçeleme Sözleşmesi",
+    "anlam": "Vergi mükellefleri ve sorumluları; özel hukuk biçimlerini ve kurumlarını olağan kullanımları dışında kötüye kullanarak vergi kaçırma amacı güdüyorlarsa bu amaca yönelik olarak yaptıkları sözleşmelere peçeleme sözleşmesi denir.",
+    "harf": "P"
+  },
+  {
+    "terim": "Pragmatik",
+    "anlam": "(Fr. Pragmatique) Faydacı, yararcı, eylemle ilgili.",
+    "harf": "P"
+  },
+  {
+    "terim": "Pinhan",
+    "anlam": "Gizli, saklı, gizlenmiş.",
+    "harf": "P"
+  },
+  {
+    "terim": "Râbıta",
+    "anlam": "Bağlantı; bağ; düzen; tertip",
+    "harf": "R"
+  },
+  {
+    "terim": "Râci",
+    "anlam": "Rücu eden; geri dönen; ilgisi olan",
+    "harf": "R"
+  },
+  {
+    "terim": "Rahin",
+    "anlam": "Rehin veren; rehneden",
+    "harf": "R"
+  },
+  {
+    "terim": "Rakabe",
+    "anlam": "Devri ve devir alınması olanaklı bulunan şeyin kendisi; örneğin tarla,köle gibi; mala(şeye) hakim olabilme kudreti; çıplak mülkiyet",
+    "harf": "R"
+  },
+  {
+    "terim": "Rapt",
+    "anlam": "Bağlama; bağlanma; iliştirme; bağlaç",
+    "harf": "R"
+  },
+  {
+    "terim": "Rayiç",
+    "anlam": "Sürüm değeri; geçerli olan",
+    "harf": "R"
+  },
+  {
+    "terim": "Rayiç Değer",
+    "anlam": "Bir iktisadi kıymetin, değerleme günündeki normal alım-satım değeri; piyasa değeri.",
+    "harf": "R"
+  },
+  {
+    "terim": "Ref etmek",
+    "anlam": "Kaldırmak; örneğin itirazın ref'i (kaldırılması)",
+    "harf": "R"
+  },
+  {
+    "terim": "Refik",
+    "anlam": "Arkadaş",
+    "harf": "R"
+  },
+  {
+    "terim": "Rehin",
+    "anlam": "Bir borcun yerine getirilmemesi halinde, alacaklarının teminatı olmak üzere ve paraya çevirtme hakkıyla birlikte alacaklı lehine verilen taşınır veya taşınmaz mal güvencesi.",
+    "harf": "R"
+  },
+  {
+    "terim": "Reisievvel",
+    "anlam": "Birinci reis",
+    "harf": "R"
+  },
+  {
+    "terim": "Replik",
+    "anlam": "Davacının, davalının cevap layihasına (yazısına) karşı verdiği cevap.",
+    "harf": "R"
+  },
+  {
+    "terim": "Resen",
+    "anlam": "Kendiliğinden; herhangi bir isteğe gerek olmadan; otomatikman",
+    "harf": "R"
+  },
+  {
+    "terim": "Re'sen",
+    "anlam": "1. Kendi başına, kendiliğinden. \"",
+    "harf": "R"
+  },
+  {
+    "terim": "Resim",
+    "anlam": "Devlet daire ve kurumlarında görülen hizmet ve yapılan giderlerin karşılığı olarak, sadece o işle ilgisi bulunan kişilerden alınan bir gelir.",
+    "harf": "R"
+  },
+  {
+    "terim": "Resmi gazete",
+    "anlam": "Başbakanlık tarafından çıkarılan ve kanunların, kanun hükmündeki kararnamelerin, tüzüklerin ve bazı yönetmeliklerin yürürlüğe girmesi için yayımladığı gazetedir.",
+    "harf": "R"
+  },
+  {
+    "terim": "Resmi Senet",
+    "anlam": "Resmi bir makam ve görevlinin, usulüne göre düzenlediği veya onayladığı belge.",
+    "harf": "R"
+  },
+  {
+    "terim": "Resülmâl",
+    "anlam": "Anamal; sermaye",
+    "harf": "R"
+  },
+  {
+    "terim": "Reşit",
+    "anlam": "Ergin; rüşt yaşını doldurmuş; onsekiz yaşını dolduran veya onsekiz yaşını doldurmamasına rağmen evlenen veya yasal olarak erginliğine mahkemece karar verilen kişi",
+    "harf": "R"
+  },
+  {
+    "terim": "Rûz-nâme",
+    "anlam": "Gündem; yevmiye defteri; takvim",
+    "harf": "R"
+  },
+  {
+    "terim": "Rücu",
+    "anlam": "Dönme; geri dönme; cayma; sözünden dönme; sözünü geri alma; bir ödemede bulunan kimsenin, bu bedeli, asıl ödeme yapması gereken kişiden istemesi;",
+    "harf": "R"
+  },
+  {
+    "terim": "Rüçhan",
+    "anlam": "Öncelik; üstünlük; imtiyaz",
+    "harf": "R"
+  },
+  {
+    "terim": "Rüsum",
+    "anlam": "Resimler; devlet dairelerinde ve diğer kamu kuruluşlarında görülen hizmet ve harcamaların karşılığı olarak alınan vergiler",
+    "harf": "R"
+  },
+  {
+    "terim": "Rü'yet",
+    "anlam": "Davanın bakılmakta olması.",
+    "harf": "R"
+  },
+  {
+    "terim": "Rad",
+    "anlam": "Redden, Geri çeviren,",
+    "harf": "R"
+  },
+  {
+    "terim": "Rehnüma",
+    "anlam": "Rehber, kılavuz",
+    "harf": "R"
+  },
+  {
+    "terim": "Rıza-i taksim",
+    "anlam": "Ortakların kendi aralarında anlaşmak suretiyle ortak mallarını paylaşmaları durumu",
+    "harf": "R"
+  },
+  {
+    "terim": "Reddiyat",
+    "anlam": "Davadaki masrafları karşılamak için tarafların önceden yatırdığı gider avasından para çekme işlemi",
+    "harf": "R"
+  },
+  {
+    "terim": "Râhin",
+    "anlam": "Rehin veren kişi",
+    "harf": "R"
+  },
+  {
+    "terim": "riziko",
+    "anlam": "zarara uğrama tehlikesi, tehlike, zarar ve ziya",
+    "harf": "R"
+  },
+  {
+    "terim": "Rehnedilen",
+    "anlam": "İpotekli, İpotekli mal.",
+    "harf": "R"
+  },
+  {
+    "terim": "Ruzname",
+    "anlam": "Günlük",
+    "harf": "R"
+  },
+  {
+    "terim": "Rantabilite",
+    "anlam": "Sermayenin parasal verimliliğini ifade eder.",
+    "harf": "R"
+  },
+  {
+    "terim": "Referandum",
+    "anlam": "Halk oylaması. Halkın türlü siyasi ve toplumsal sorunlar karşısında olumlu veya olumsuz görüşünü belirlemek için başvurulan oylama.",
+    "harf": "R"
+  },
+  {
+    "terim": "Rachat",
+    "anlam": "İdârenin imtiyaz sahibinin hiçbir kusuru olmasa dahi, hizmet ve kamu yararının gerektirmesi nedeniyle, sözleşmeyi tek yanlı feshettiğinde, imtiyaz sahibinin zararını tamamen gidermek zorunda olmasıdır. 2 Devletin durumunun iyi oldugu zamanlarda sermaye piyasasından kendi tahvillerini alması işlemidir. Yani devlet, durumu iyiyse ve bütçe fazlası varsa piyasadan kendi tahvillerini geri satın alır.",
+    "harf": "R"
+  },
+  {
+    "terim": "RÖDÖVANS",
+    "anlam": "Gelir, irat. Maden İşletme Kirası",
+    "harf": "R"
+  },
+  {
+    "terim": "REZONANS",
+    "anlam": "Bir sistemin (genellikle doğrusal bir sistemin) bazı frekanslarda diğerlerine nazaran daha büyük genliklerde salınması eğilimidir",
+    "harf": "R"
+  },
+  {
+    "terim": "Reis",
+    "anlam": "Başkan",
+    "harf": "R"
+  },
+  {
+    "terim": "Rüşt",
+    "anlam": "Erginlik",
+    "harf": "R"
+  },
+  {
+    "terim": "Re'sen Vergi Tarhı",
+    "anlam": "Resen vergi tarhı, vergi matrahının tamamen veya kısmen defter, kayıt ve belgelere veya kanunî ölçülere dayanılarak tespitine imkân bulunmayan hallerde takdir komisyonları tarafından takdir edilen veya vergi incelemesi yapmaya yetkili olanlarca düzenlenmiş vergi inceleme raporlarında belirtilen matrah veya matrah kısmı üzerinden vergi tarh olunmasıdır. İnceleme raporunda bu maddeye göre belirlenen matrah veya matrah farkı resen takdir olunmuş sayılır.",
+    "harf": "R"
+  },
+  {
+    "terim": "Sâdır olmak",
+    "anlam": "Çıkmak",
+    "harf": "S"
+  },
+  {
+    "terim": "Safahat",
+    "anlam": "Evreler, safhalar",
+    "harf": "S"
+  },
+  {
+    "terim": "Sâlif-üz-zikr",
+    "anlam": "Zikri geçen; bildirilen",
+    "harf": "S"
+  },
+  {
+    "terim": "Salih",
+    "anlam": "Elverişli; uygun",
+    "harf": "S"
+  },
+  {
+    "terim": "Saniyen",
+    "anlam": "Ikinci olarak",
+    "harf": "S"
+  },
+  {
+    "terim": "Sarahat",
+    "anlam": "Açıklık; netlik; sarihlik; aydınlık",
+    "harf": "S"
+  },
+  {
+    "terim": "Sarfiyat",
+    "anlam": "Harcamalar; giderler",
+    "harf": "S"
+  },
+  {
+    "terim": "Sari",
+    "anlam": "Bulaşan; bulaşıcı",
+    "harf": "S"
+  },
+  {
+    "terim": "Satış vaadi",
+    "anlam": "Bir kimsenin, taşınmaz malını bir başkasına satmayı (ileride yapılacak satım akdini) taahhüt ettiği sözleşme.",
+    "harf": "S"
+  },
+  {
+    "terim": "Savcılık",
+    "anlam": "Devlet adına kamu davasını açan makamdır.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sây",
+    "anlam": "Emek; çalışma",
+    "harf": "S"
+  },
+  {
+    "terim": "Sayıştay",
+    "anlam": "Devlet mallarını kabız ve sarf ve idare ve edenlerin hesaplarını tetkik ve muhakeme ile mükellef bir heyet.Divanı muhasebat",
+    "harf": "S"
+  },
+  {
+    "terim": "Saylık",
+    "anlam": "İçerisinde düz taşların bulunduğu, imar ihyaya elverişli arazi.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sebketmek",
+    "anlam": "Vâki olmak; yapılmak; olmak; ileri geçmek",
+    "harf": "S"
+  },
+  {
+    "terim": "Sehim",
+    "anlam": "Pay; hisse",
+    "harf": "S"
+  },
+  {
+    "terim": "Sehven",
+    "anlam": "Yanlışlıkla.",
+    "harf": "S"
+  },
+  {
+    "terim": "Selahiyet",
+    "anlam": "İzin,müsade,yetki.",
+    "harf": "S"
+  },
+  {
+    "terim": "Selb",
+    "anlam": "Zorla alma; kaldırma; giderme",
+    "harf": "S"
+  },
+  {
+    "terim": "Selef",
+    "anlam": "Önce gelen kimse",
+    "harf": "S"
+  },
+  {
+    "terim": "Semen",
+    "anlam": "Satış parası; satış sözleşmesinde, satana mal teslimine karşılık olarak ödenecek para",
+    "harf": "S"
+  },
+  {
+    "terim": "Semere",
+    "anlam": "Bir maldan elde edilen ürünler; Tabii Semere",
+    "harf": "S"
+  },
+  {
+    "terim": "Senedât",
+    "anlam": "Senetler",
+    "harf": "S"
+  },
+  {
+    "terim": "Sened-i hâkanî",
+    "anlam": "Tapu senedi",
+    "harf": "S"
+  },
+  {
+    "terim": "Senet",
+    "anlam": "Bir kimsenin yapmaya ya da ödemeye borçlu olduğu şeyi göstermek için imzaladığı resmi kâğıt, belgit.",
+    "harf": "S"
+  },
+  {
+    "terim": "Senevî",
+    "anlam": "Senelik; yıllık",
+    "harf": "S"
+  },
+  {
+    "terim": "Serdetmek",
+    "anlam": "Ileri sürmek; öne sürmek; ortaya çıkmak; belirtmek",
+    "harf": "S"
+  },
+  {
+    "terim": "seyirtmek",
+    "anlam": "Koşmak, koşar adım yürümek",
+    "harf": "S"
+  },
+  {
+    "terim": "Seyrân-gâh",
+    "anlam": "Gezme yeri; dolaşma yeri",
+    "harf": "S"
+  },
+  {
+    "terim": "Sigorta primi",
+    "anlam": "Sigorta ettirenin sigortacıya ödemekle yükümlü olduğu ücrettir.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sin",
+    "anlam": "Yaşanılan süre",
+    "harf": "S"
+  },
+  {
+    "terim": "Sinkâf",
+    "anlam": "Erkeklik organı ve ilgili sövgülerin tümünün kısaltılmış biçimi.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sirayet",
+    "anlam": "Bulaşma; yayılma; geçme",
+    "harf": "S"
+  },
+  {
+    "terim": "Sirkat",
+    "anlam": "Hırsızlık; çalma; çalınma",
+    "harf": "S"
+  },
+  {
+    "terim": "Siyanet",
+    "anlam": "Koruma",
+    "harf": "S"
+  },
+  {
+    "terim": "Siyasi haklar",
+    "anlam": "Herhangi bir biçimde devletin yönetimine ve siyasi kuruluşlarına katılmaya yönelik haklardır",
+    "harf": "S"
+  },
+  {
+    "terim": "Skar",
+    "anlam": "Yara izi, kesi, iyileşmiş yara.",
+    "harf": "S"
+  },
+  {
+    "terim": "Soruşturma",
+    "anlam": "Suçun işlenmesinden başlayarak yargı verilinceye dek, kolluk, savcı, yargıç yönünden yapılan inceleme, araştırma ve kanıtların toplanması işleminin tümü.\"",
+    "harf": "S"
+  },
+  {
+    "terim": "Sosyal devlet",
+    "anlam": "Fertlerin sosyal durumlarıyla ilgilenen, onlara asgari bir hayat düzeyi sağlamayı, sosyal adaleti ve sosyal güvenliği gerçekleştirmeyi ödev bilen devlettir.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sosyal ilişkiler",
+    "anlam": "Şahısların birbirleriyle veya toplumla olan ilişkileridir.",
+    "harf": "S"
+  },
+  {
+    "terim": "Sosyal kurallar",
+    "anlam": "Sosyal ilişkileri düzenleyen din, ahlak, görgü ve hukuk kurallarıdır.",
+    "harf": "S"
+  },
+  {
+    "terim": "Şagil",
+    "anlam": "Meşgul eden; meşgul olmayı gerektiren; işgal eden; bir mülkte oturan",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahâdet",
+    "anlam": "Tanıklık",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahbender",
+    "anlam": "Konsolos",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahsı âhar (âher)",
+    "anlam": "Başkası; üçüncü kişi",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahsi edim",
+    "anlam": "Borçlunun bizzat bedeni ya da fikri gücü ya da yeteneği ile icra edeceği edim türü",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahsi haklar",
+    "anlam": "Ayni hakların aksine, herkese karşı ileri sürülemeyen haklar; kişisel haklar.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahsiyet hakları",
+    "anlam": "Şahısların maddi,manevi ve ekonomik bütünlüğü üzerindeki mutlak haktır.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şamil",
+    "anlam": "Içine alan; kapsayan; çevreleyen",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şâmil olmak",
+    "anlam": "Kapsamak; içine almak",
+    "harf": "Ş"
+  },
+  {
+    "terim": "şantiye",
+    "anlam": "1. Yapı gereçlerinin yığılıp saklandığı veya işlendiği yer.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şârih",
+    "anlam": "Şerhçi; şerh eden; bir konuyu ayrıntılarıyla açıklayan",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şark",
+    "anlam": "Doğu",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şartname",
+    "anlam": "Satın alma, satma, yaptırma, kiralama vb. işleri gerçekleştirmek isteyen gerçek veya tüzel kişilerin düzenlediği ve işi yapan ile yaptıranın üstlendikleri koşulları belirleyen resmî belge.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şayi",
+    "anlam": "Pay; hisse",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şâyi hisse",
+    "anlam": "Ortak (müşterek) mülkiyette, ortaklardan herbirine ait pay",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şayian",
+    "anlam": "Ortaklaşa",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şefi",
+    "anlam": "Şufa (önalım) hakkı bulunan kişi; önalımcı",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şerait",
+    "anlam": "Şartlar; koşullar",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şerh",
+    "anlam": "Kişisel hakların, devir sınırlamalarının ve geçici tescilin, tapu siciline yazılmasını gösteren terim",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şerik",
+    "anlam": "Ortak; iştirakçi",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şibh (şibih)",
+    "anlam": "Benzer; benzeme; benzeyiş",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şifahî beyan",
+    "anlam": "Sözlü açıklama",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şimal",
+    "anlam": "Kuzey",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şira",
+    "anlam": "Satış",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şufa",
+    "anlam": "Önalım; öncelikli alım",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şufa hakkı",
+    "anlam": "Önalım hakkı; mükellefin, hakkın konusu olan şeyi bir üçüncü kişiye satması durumunda, hak sahibine tek taraflı bir irade beyanı ile satılan şeyin mülkiyetinin kararlaştırılan bedel karşılığında öncelikle kendisine devrini isteme yetkisini veren haktır, y",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şuhut",
+    "anlam": "Şahitler",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şura-yı Devlet",
+    "anlam": "Osmanlı Devleti'nde günümüzdeki Danıştay'a karşılık gelen yüksek yargı kurumudur.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şümul",
+    "anlam": "Kapsam; içine alma; kapsama",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şüphe",
+    "anlam": "1. Bir olguyla ilgili gerçeğin ne olduğunu kestirememekten doğan kararsızlık, kuruntu, işkil, şüphe, acaba\"",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şüyu",
+    "anlam": "Paydaşlık; hissedarlık",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şayeste",
+    "anlam": "Uygun, yakışır,layık uygun, münasip.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şayeste",
+    "anlam": "Para alıp vermek yetkisi,saklama yetkisi.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "ŞÜPHELİ",
+    "anlam": "Soruşturma evresinde, suç şüphesi altında bulunan kişi.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "ŞİKÂYETÇİ",
+    "anlam": "Zarar gördüğü bir suçun failini, ilgili makam ve memurlara bildiren kişi, müşteki.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şahit",
+    "anlam": "Tanık",
+    "harf": "Ş"
+  },
+  {
+    "terim": "ŞÜMUL",
+    "anlam": "İçine alma, kaplama, kapsama.",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şiar",
+    "anlam": "Tutulacak yol, ülkü, ilke",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Şehadet",
+    "anlam": "Yüksek bir ülkü uğrunda ölme, şehit olma",
+    "harf": "Ş"
+  },
+  {
+    "terim": "şehadetname",
+    "anlam": "Bir işin yapıldığını gösteren, yetkilisi tarafından verilmiş olan onaylanmış belge",
+    "harf": "Ş"
+  },
+  {
+    "terim": "Taaddüd",
+    "anlam": "Birden çok",
+    "harf": "T"
+  },
+  {
+    "terim": "Taahhüdü ihlal",
+    "anlam": "Borclunun haciz zaptında borcu kabul ve ödemeyi taahhud edip, tahhüdünü yerine getirmemesi.",
+    "harf": "T"
+  },
+  {
+    "terim": "Taahhütname",
+    "anlam": "Kişinin kendi ad ve hesabına, bir gerçek kişi veya tüzel kişiye karşı, sözleşmeli ya da sözleşmesiz olarak, bir işin yapılmasını veya bir şeyin teslimini üstlendiğini gösterir belge.",
+    "harf": "T"
+  },
+  {
+    "terim": "Taalluk",
+    "anlam": "Ilişiği olma; asılma; ilgi",
+    "harf": "T"
+  },
+  {
+    "terim": "Taayyün",
+    "anlam": "Tayin olunma; belli olma; belirme",
+    "harf": "T"
+  },
+  {
+    "terim": "Taazzuv",
+    "anlam": "Uzuvlaşma, bir biçim alma, teşkilâtlanma, organlara ayrılma.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tabiyet",
+    "anlam": "Kişi veya şeyleri devlete bağlayan siyasi ve hukuki bağ; vatandaşlık. yurttaşlık; bağımsızlık",
+    "harf": "T"
+  },
+  {
+    "terim": "Tacir",
+    "anlam": "Ticaretle uğraşan; bir ticari işletmeyi kısmen dahi olsa kendi adına işleten kimsedir.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tadât",
+    "anlam": "Sayma; sayılma; sayım",
+    "harf": "T"
+  },
+  {
+    "terim": "Tadil",
+    "anlam": "Değiştirme; değişiklik",
+    "harf": "T"
+  },
+  {
+    "terim": "Tafsil Etmek",
+    "anlam": "Ayrıntiları ile anlatmak.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tağyir",
+    "anlam": "Başkalaştırma; değiştirme; bozma tahakkuk gerçekleştirme; gerçekleşme",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahaddüs",
+    "anlam": "Ortaya çıkmak",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahassul",
+    "anlam": "Hasıl olma; sonuç olarak ortaya çıkma",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahavvül",
+    "anlam": "Değişme; dönme",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahdîdât",
+    "anlam": "Sınırlamalar; kısıntılar",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahdidî",
+    "anlam": "Sınırlayıcı, tüketici.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahfif",
+    "anlam": "Hafifletme; azaltma",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahkik",
+    "anlam": "Soruşturma.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahkikat",
+    "anlam": "Soruşturma",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahlif",
+    "anlam": "Yemin",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahliye",
+    "anlam": "Boşaltma; salıverme; serbest bırakma.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahliye taahhütnamesi",
+    "anlam": "Kiracının, kiralananı belli bir tarihte boşaltacağına ilişkin yaptığı yazılı irade beyanı.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahmil",
+    "anlam": "Yükleme",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahnit",
+    "anlam": "Bozulmaması için ölüyü ilaçlama.\"",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahrip",
+    "anlam": "Harabetme; yıkma; kırma; bozma",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahrir",
+    "anlam": "Yazım",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahriren",
+    "anlam": "Yazılı olarak",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahsin",
+    "anlam": "Beğenme",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahsis",
+    "anlam": "Emrine verme; özgüleme.",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahşiye",
+    "anlam": "Çıkıntı yapmak",
+    "harf": "T"
+  },
+  {
+    "terim": "Taht",
+    "anlam": "Alt; aşağı",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahtani",
+    "anlam": "Binanın alt kısmı",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahtani fevkani",
+    "anlam": "Altlı üstlü",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahvil",
+    "anlam": "Değiştirme; değiştirilme; borç senedi",
+    "harf": "T"
+  },
+  {
+    "terim": "Tahvilat",
+    "anlam": "Tahviller",
+    "harf": "T"
+  },
+  {
+    "terim": "Takaddüm",
+    "anlam": "Önce gelme; önde gelme",
+    "harf": "T"
+  },
+  {
+    "terim": "Takarrür etmek",
+    "anlam": "Kararlaşmak; kararlaştırmak; istikrar kazanan kararlar",
+    "harf": "T"
+  },
+  {
+    "terim": "Takas",
+    "anlam": "Vadesi gelmiş, aynı cinsten ve karşılıklı iki alacağın birbirine sayışılması.",
+    "harf": "T"
+  },
+  {
+    "terim": "Takibat",
+    "anlam": "Kovuşturma",
+    "harf": "T"
+  },
+  {
+    "terim": "Uhde",
+    "anlam": "Görev; birinin yapmakla yükümlü olduğu iş; bir işin yapılacağına söz verme",
+    "harf": "U"
+  },
+  {
+    "terim": "Uhdesinde",
+    "anlam": "Üzerinde; sorumluluğunda",
+    "harf": "U"
+  },
+  {
+    "terim": "Ulak",
+    "anlam": "Haberci; haber götürücü",
+    "harf": "U"
+  },
+  {
+    "terim": "Umran",
+    "anlam": "Bayındır",
+    "harf": "U"
+  },
+  {
+    "terim": "Umranî",
+    "anlam": "Bayındırlıkla ilgili; imarlı hale getirme",
+    "harf": "U"
+  },
+  {
+    "terim": "Umur",
+    "anlam": "Işler",
+    "harf": "U"
+  },
+  {
+    "terim": "Urup",
+    "anlam": "Arşının sekizde biri",
+    "harf": "U"
+  },
+  {
+    "terim": "Usul",
+    "anlam": "Şekle ilişkin.",
+    "harf": "U"
+  },
+  {
+    "terim": "UYARMA",
+    "anlam": "İkaz, ikaz etme, dikkatini çekme. Bir tür idârî disiplin cezasıdır",
+    "harf": "U"
+  },
+  {
+    "terim": "Uygulama imar plânı",
+    "anlam": "Onaylı halihazır haritalar üzerinde, varsa kadastral durumu işlenmiş olarak, nazım imar plân esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzeni, yolları ve uygulama için gerekli imar uygulama plânlarına esas olacak u",
+    "harf": "U"
+  },
+  {
+    "terim": "Uyrukluk",
+    "anlam": "Şahısları veya şeyleri devlete bağlayan hukuki ve siyasi bağdır.",
+    "harf": "U"
+  },
+  {
+    "terim": "Uzatılmış mal ortaklığı",
+    "anlam": "Evlilik birliğinin, eşlerden birinin ölümüyle son bulması halinde, sağ kalan eşin, ölen eşin çocuklarıyla birlikte devam ettirdiği mal ortaklığı rejimi.",
+    "harf": "U"
+  },
+  {
+    "terim": "uzlaşma",
+    "anlam": "Anlaşma, bir ihtilafın sona erdirilmesi, sulhlaşma, sulh olma.",
+    "harf": "U"
+  },
+  {
+    "terim": "Ukud",
+    "anlam": "Karşılıklı anlaşılan şeyler, şartlar, sözleşme",
+    "harf": "U"
+  },
+  {
+    "terim": "Usuli Müktesep Hak",
+    "anlam": "Usuli kazanılmış hak, görülmekte olan bir davada taraflardan birinin ya da mahkemenin yapmış olduğu bir usul işlemi ile yanlardan biri lehine doğmuş ve kendisine uyulması zorunlu olan hakka usule ilişkin kazanılmış hak denilmektedir.",
+    "harf": "U"
+  },
+  {
+    "terim": "ukubat",
+    "anlam": "İslâm ceza hukuku",
+    "harf": "U"
+  },
+  {
+    "terim": "Uyuşmazlık",
+    "anlam": "İki tarafın bir konu üzerinde farklı görüşlere sahip olmasından ortaya çıkan anlaşmazlık.",
+    "harf": "U"
+  },
+  {
+    "terim": "usül",
+    "anlam": "bir kimsenin kendisinden geriye doğru kan bağı olan kimseler, ana, baba, dedeleri ve nineleri., yukarıya doğru devam eden üst soy hısımlar",
+    "harf": "U"
+  },
+  {
+    "terim": "Üçüncü şahıs",
+    "anlam": "Bir sözleşmenin, davanın veya icra takibinin taraflarından olmayan kişi.",
+    "harf": "Ü"
+  },
+  {
+    "terim": "Üst hakkı",
+    "anlam": "Taşınmaz malikinin, bir başkasına, arsasının üstünde ya da altında inşaat yapma veya mevcut inşaatı koruma (ona sahip olma) yetkisi verdiği irtifak hakkı.",
+    "harf": "Ü"
+  },
+  {
+    "terim": "Ücret-i Vekalet",
+    "anlam": "Emeği karşılığı avukata ödenen vekalet ücreti.",
+    "harf": "Ü"
+  },
+  {
+    "terim": "Üst Soy- Alt Soy Kan Hısımlığı",
+    "anlam": "Ebeveyn- çocuk ilişkisine bağlı hısımlıktır. Anne, baba üst soy iken, çocuk ve torun alt soydur.",
+    "harf": "Ü"
+  },
+  {
+    "terim": "Vabeste",
+    "anlam": "Bağlı",
+    "harf": "V"
+  },
+  {
+    "terim": "vade",
+    "anlam": "Belirlenen süre, borcun ödeme zamanı, ifa zamanı. Ecel, ölüm, ölüm olayı.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vakfiye",
+    "anlam": "Vakfedenin vakfa ilişkin bildirimini ve hakimin tescilini kapsayan belge",
+    "harf": "V"
+  },
+  {
+    "terim": "vakıa",
+    "anlam": "Olay, gerçek, olgu. Vuku': Düşüş. Başa gelen, çatan büyük iş.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vakıf",
+    "anlam": "Tesis; başlı başına bir varlığı bulunmak üzere bir malın belirli amaca tahsisi",
+    "harf": "V"
+  },
+  {
+    "terim": "VÂKİ",
+    "anlam": "vuku bulan,olan,olmuş.",
+    "harf": "V"
+  },
+  {
+    "terim": "VALÖR",
+    "anlam": "Bankacılıkta, faizin fiili olarak hesabına esas alınan tarihe VALÖR denir. Bankadan çekilen para için aynı günün, yatırılan para için tahsil edilen tarihi izleyen ilk iş günü VALÖR olarak kabul edelir.",
+    "harf": "V"
+  },
+  {
+    "terim": "Varaka",
+    "anlam": "Belge; yazılı kağıt",
+    "harf": "V"
+  },
+  {
+    "terim": "Varant",
+    "anlam": "Rehin senedi; umumi mağazaya tevdi edilen mallara ve tahıla ilişkin rehin hakkını gösteren ve bu mallar üzerinde herhangi bir alacaklı yararına bu hakkın yaratılmasını sağlayan senet",
+    "harf": "V"
+  },
+  {
+    "terim": "vareste",
+    "anlam": "Kurtulma, kurtulan, yoksun tutma, ilişiğinin kalmaması. Mahkemedeki duruşmalara gelme mecburiyetinin kalmaması.",
+    "harf": "V"
+  },
+  {
+    "terim": "Varîd",
+    "anlam": "Gelen; vasıl olan; gerçek olan; varolan",
+    "harf": "V"
+  },
+  {
+    "terim": "Vâridât",
+    "anlam": "Gelirler; devlet(kamu)gelirleri",
+    "harf": "V"
+  },
+  {
+    "terim": "Vâris",
+    "anlam": "Mirasçı",
+    "harf": "V"
+  },
+  {
+    "terim": "VARİT",
+    "anlam": "Gelen, bir yere ulaşan, meydana gelen, ortaya çıkan.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vasıl olmak",
+    "anlam": "Ulaşmak, erişmek",
+    "harf": "V"
+  },
+  {
+    "terim": "Vasi",
+    "anlam": "Kanunun öngördüğü durumlarda, küçük veya kısıtlı kişilerin haklarını korumak üzere mahkeme tarafından atanan kanuni temsilci.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vatandaşlık",
+    "anlam": "Bir hakiki şahsı bir devlete bağlayan hukuki bağdır.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vaz'",
+    "anlam": "Koyma; konulma (yürürlüğe koyma)",
+    "harf": "V"
+  },
+  {
+    "terim": "Vazıyed etme",
+    "anlam": "Bir şeye veya bir işe el koyma",
+    "harf": "V"
+  },
+  {
+    "terim": "Vaziyet",
+    "anlam": "Durum; hal",
+    "harf": "V"
+  },
+  {
+    "terim": "Vecîbe",
+    "anlam": "Borç",
+    "harf": "V"
+  },
+  {
+    "terim": "Veçhile",
+    "anlam": "(bu) yönden; böylece; uyarınca",
+    "harf": "V"
+  },
+  {
+    "terim": "veda",
+    "anlam": "Ayrılma, allah'a ısmarladık deme, bırakma, sonverme.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vedia",
+    "anlam": "Saklama",
+    "harf": "V"
+  },
+  {
+    "terim": "Vefa hakkı",
+    "anlam": "Hak sahibine, sattığı şeyin mülkiyetinin kararlaştırılan bedel karşılığında tekrar kendisine devrini, tek taraflı irade beyanı ile isteme yetkisi veren hak",
+    "harf": "V"
+  },
+  {
+    "terim": "Vehle",
+    "anlam": "Öncesi; baş tarafı; dakika; an",
+    "harf": "V"
+  },
+  {
+    "terim": "Vehle-i ûlâ",
+    "anlam": "Ilk başlangıç; birdenbire",
+    "harf": "V"
+  },
+  {
+    "terim": "vekâlet",
+    "anlam": "Vekillikte bulunma, birisini temsil etme. Başkası nâm ve hesabına bir sözleşmeyle temsil eden kimse. Bakanlık, nâzırlık, icra organında görev alan ve belli işleri yürüten kişinin makamı. Bk md. 386 vd.",
+    "harf": "V"
+  },
+  {
+    "terim": "Vekalet Sözleşmesi",
+    "anlam": "Kişinin, bedelli veya bedelsiz olarak, bir işi yürütmeyi veya yerine getirmeyi başkası adına üstlendiği sözleşme.",
+    "harf": "V"
+  },
+  {
+    "terim": "vekaletname",
+    "anlam": "Vekil bırakanın vekiline yazılı olarak verdiği temsil belgesi. Genelde noterlerce düzenlenen ve hangi konularda ne şekilde müvekkili temsil edeceğini gösteren yazılı belge.",
+    "harf": "V"
+  },
+  {
+    "terim": "vekil",
+    "anlam": "Nâzır, bakan. Bir kimseyi vekâlet sözleşmesi ile temsil eden. Başkası nam ve hesabına hareket eden ve bir kısım işler yapan.",
+    "harf": "V"
+  },
+  {
+    "terim": "Velayet",
+    "anlam": "Ana ve/veya babanın, reşit olmamış çocukları üzerindeki (kanundan doğan) eğitim ve terbiye hak ve yetkisi.",
+    "harf": "V"
+  },
+  {
+    "terim": "veled",
+    "anlam": "Çocuk, erkek veya kız çocuğu için kullanılır. Halk arasında çoğu kez erkek çocuğu içindir.",
+    "harf": "V"
+  },
+  {
+    "terim": "Velev",
+    "anlam": "Olsa bile; hatta; ister; isterse",
+    "harf": "V"
+  },
+  {
+    "terim": "Veli",
+    "anlam": "Velayet hakkına sahip bulunan ana ve/veya baba.",
+    "harf": "V"
+  },
+  {
+    "terim": "veraset",
+    "anlam": "Mirasçı olma, soya çekim, bir kimsenin kendi atasına çekmesi.",
+    "harf": "V"
+  },
+  {
+    "terim": "veraset ilamı",
+    "anlam": "Ölen bir kimsenin mallarına kimlerin ne miktar ve ne nisbetle mirasçı olacağını gösteren mahkeme kararı.",
+    "harf": "V"
+  },
+  {
+    "terim": "veraset ve intikal vergisi",
+    "anlam": "Ölenin vârislerine kalan mal ve paradan alınan vergi",
+    "harf": "V"
+  },
+  {
+    "terim": "Verese",
+    "anlam": "Mirasçılar",
+    "harf": "V"
+  },
+  {
+    "terim": "Vergi ziyaı",
+    "anlam": "Vergi kaybı. Vergi mükelleflerinin, işlemlerde yaptıkları eksiklikler ve gecikmeler sebebiyle vergi kaybına neden olması, vergi kaçırmaya girişmesi.",
+    "harf": "V"
+  },
+  {
+    "terim": "Yabancı",
+    "anlam": "Bir devletin ülkesinde oturan ve o devletin uyruğunu iddia etmek hakkı olmayan kimselerdir.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yalamuk",
+    "anlam": "Çam ağacının reçineli kabuğu; soymuk",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yapı",
+    "anlam": "imar hukukunda karada ve suda, sürekli veya geçici, resmî veya özel yeraltı ve yerüstü inşaatı ile bunların ilave, değişiklik ve tamirlerini içine alan sabit ve hareketli tesisler",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yapı alacaklısı ipoteği",
+    "anlam": "Bir yapıyı yapanların, o yapıdan doğan alacaklarını teminat altına almak için koydurdukları gayrimenkul rehni",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yapı kullanma izni",
+    "anlam": "Iskân belgesi",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yapı malikinin sorumluluğu",
+    "anlam": "Bir binanın veya diğer yapı eseri malikinin, bunların çürük yapılmasından veya korunmasındaki kusurundan dolayı sorumlu tutulması",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yapı ruhsatı",
+    "anlam": "Inşaat izni; inşaat ruhsatı",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yargı",
+    "anlam": "Hukuk kurallarının bağımsız ve tarafsız mahkemelerce belli bir olaya uygulanmasıdır.",
+    "harf": "Y"
+  },
+  {
+    "terim": "yargıç",
+    "anlam": "hakim",
+    "harf": "Y"
+  },
+  {
+    "terim": "YARGITAY",
+    "anlam": "Temyiz mahkemesi, bir üst derece mahkemesidir. Hukuk ve ceza mahkemelerinden verilen kararların denetim mercii. Hukuk ve cezâ dairelerinden oluşur. Her daire bir başkan ve en az dört üyeden ibârettir. Askerî ceza yargısında ise bu mahkeme askerî yargıtay",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yayla",
+    "anlam": "Çevresi dik bayırlarla çevrili, düz ve yüksek yer; genellikle yüksek platolarda yer alan, insanların serinlemek ve hayvanlarını otlatmak için yaz aylarında gidip kaldıkları yer",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yaylak",
+    "anlam": "Bir veya birkaç köy ya da beldeye, ayrı ayrı veya ortak olarak, yaz mevsimini geçirmeleri ve hayvanlarını otlatmaları için tahsis edilen veya öteden beri bu amaçla kullanılagelen arazi. hayvanların yayılıp otlamasına uygun yer; otlak",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yed",
+    "anlam": "El ;elinde bulundurma",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yed'i istirdat",
+    "anlam": "Mal üzerindeki yitirlmiş egemenliği, tasarruf gücünü geri almak, yeniden ele geçirmek",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yediemin",
+    "anlam": "Uyuşmazlık konusu şeyin saklanması ve idaresi kendisine verilen kişi; güvenilir kişi; yediadl",
+    "harf": "Y"
+  },
+  {
+    "terim": "yeknesak",
+    "anlam": "HER TARAFI DÜZ, TEK DÜZE, BİR İHTİLAF VE PÜRÜZ BULUNMAYAN YAPI TEK DÜZEN, BİR PARÇA HALİNDE OLUP KARIŞIK OLMAYAN.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yekûn",
+    "anlam": "Toplam",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yeni arazi teşekkülü",
+    "anlam": "Kimsenin mülkiyetinde olmayan yerlerde birikme, dolma, kayma ya da kamunun malı olan akarsuların yatak veya seviyelerinin değişmesi gibi olaylarla oluşan toprak parçası.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yeniden değerleme",
+    "anlam": "Vergi matrahının hesaplanmasıyla ilgili ekonomik kıymetlerin takdir ve tespiti; paranın değer kaybı gözönüne alınarak, bilançolardaki stoklar, sabit varlıklar gibi kalemlerde düzeltmeler yapılması.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yerleşme alanı",
+    "anlam": "Imar Plânı sınırı içindeki yerleşik ve gelişme alanlarının tümü",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yeşil alan",
+    "anlam": "Şehir imar plânlarında toplumun yararlanması için ayrılan ve üzerinde inşaat yapılması mümkün olmayan ve ileride veya şimdiden park, çocuk parkı vb. hizmet alanı olarak ayrılmış alan",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yokluk",
+    "anlam": "Keen-lem-yekûn, sanki hiç olmamış. Mutlak butlan. Bir çeşit yaptırım türüdür. Emredici kurallara uymama durumunda bir kısım işlemlerin geçerli kabul edilmemesi. Meselâ resmî nikâhla evlenmeme, tapulu gayrı menkûlün el senediyle satışı gibi.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yönetim planı",
+    "anlam": "Kat Mülkiyeti Kanunu'na göre anagayrimenkulün yönetimini düzenleyici hükümler içeren ve bütün kat maliklerini bağlayan sözleşme",
+    "harf": "Y"
+  },
+  {
+    "terim": "yürürlük",
+    "anlam": "Mer'iyet, tatbikâta girme. Bir kanunun yayımından sonra pratiğe konulması. Bu da ya belirtilen tarihte olur ya da yayımından 45 gün sonra.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yan Soy Hısımlığı",
+    "anlam": "Biri diğerinden gelmeyip de, ortak bir kökten gelenlerdir. Kardeş, dayı, amca, hala vs. yarı soy hısımlarıdır.",
+    "harf": "Y"
+  },
+  {
+    "terim": "yalan",
+    "anlam": "gerçek olmayan uydurma söz",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yandal",
+    "anlam": "Yandal eğitim, üniversitenin bir lisans programına kayıtlı olan bir öğrencinin, bilgisini artırmak amacıyla ikinci bir lisans programından ders almasıdır.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yayım",
+    "anlam": "Kitap, gazete vb. okunacak şeylerin basılıp dağıtılması, neşir.Yayma işi.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yayın",
+    "anlam": "Basılıp satışa çıkarılan kitap, gazete vb., neşriyat",
+    "harf": "Y"
+  },
+  {
+    "terim": "yazanak",
+    "anlam": "rapor",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yed-i emin",
+    "anlam": "Uyuşmazlık konusu şeyin saklanması ve idaresi kendisine verilen kişi; güvenilir kişi; yediadl",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yetkinlik Belgesi",
+    "anlam": "Ruhsat",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yönetmelik",
+    "anlam": "Anayasanın 123. maddesinde tarif edildiği şekliyle; Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişilerinin kendi görev alanlarını ilgilendiren konularda, kanunlara ve Cumhurbaşkanlığı kararnamelerine aykırı olmamak koşuluyla çıkardıkları yazılı hukuk kurallarıdır.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yerindelik Denetimi",
+    "anlam": "Üst bir birimin altta bulunan bir birimin yapmış olduğu eylem ve işlemlerin yerinde olup olmadığına karar vermesidir.",
+    "harf": "Y"
+  },
+  {
+    "terim": "Yafta",
+    "anlam": "Üzerine asıldığı veya yapıştırıldığı şeylerle ilgili bir bilgi veren yazılı kâğıt parçası",
+    "harf": "Y"
+  },
+  {
+    "terim": "yedinde olmak",
+    "anlam": "Tasarruf etme yetkisinde olmak",
+    "harf": "Y"
+  },
+  {
+    "terim": "Zabıt defteri",
+    "anlam": "Eski hukukta, tapu sicili gibi kullanılan defter.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zabıtname",
+    "anlam": "Tutanak",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zahir",
+    "anlam": "Açık",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zâhire",
+    "anlam": "Yiyecek; gerektiği zaman harcanmak üzere ambarda saklanan hubûbat",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zâhirî",
+    "anlam": "Görünen; görünüşte",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zail",
+    "anlam": "Zeval bulma; bitme",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zamanaşımı",
+    "anlam": "Kanunda öngörülen ve belirli koşullar altında geçmekle, bir hakkın kazanılmasını, kaybedilmesini veya bir yükümlülükten kurtulmayı sağlayan süre.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zamin",
+    "anlam": "Bir şeyi tazmin eden; kefil",
+    "harf": "Z"
+  },
+  {
+    "terim": "zanlı",
+    "anlam": "sanık, şüpheli",
+    "harf": "Z"
+  },
+  {
+    "terim": "zayi",
+    "anlam": "KAYIP, YİTİK. ÇOĞULU ZÂYİÂTDIR. YİTİKLER, YOK OLANLAR, KAYBOLANLAR '",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zevâid (zevait)",
+    "anlam": "Vakıfta gelirin dağıtılmasından sonra geri kalan",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zeval",
+    "anlam": "Son; bitim; nihayet; yok olma",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zevciyyet",
+    "anlam": "Kocalık,karılık; karı-kocalık; eşlik",
+    "harf": "Z"
+  },
+  {
+    "terim": "zeyil name",
+    "anlam": "Ek yazı, bir belgenin eki ve açıklaması niteliğindeki yazı.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zımnında",
+    "anlam": "Dolayısıyla; için; olarak",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zımnî",
+    "anlam": "Üstü kapalı; açık olmayan",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zikretmek",
+    "anlam": "Anmak; anılmak; bildirmek; belirtmek",
+    "harf": "Z"
+  },
+  {
+    "terim": "zillyetlik",
+    "anlam": "Sahibi olsun ya da olmasın, bir malı elinde bulunduran veya kullanan kişi.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zilyet",
+    "anlam": "Bir şeyi fiilen elinde bulunduran kişi; bir şeyde tasarrufta bulunan kişi; elmen",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zilyetlik",
+    "anlam": "Bir şey üzerinde fiili hakimiyet veya bi eşyayı fiili hakimiyet ve kudret alanı içinde bulundurma demektir.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zinhar",
+    "anlam": "Sakın, asla",
+    "harf": "Z"
+  },
+  {
+    "terim": "Ziyade",
+    "anlam": "Fazla; çok; aşırı",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zuhur",
+    "anlam": "Ortaya çıkma, görünme, belirme, baş gösterme, meydana çıkma.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zuhur etmek",
+    "anlam": "Ortaya çıkmak; doğmak",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zürriyet",
+    "anlam": "Bireyin neslinden gelenler",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zaman-i rücu",
+    "anlam": "Cayma akçesi, Pismanlik akçesi; Sözlesenlerden birinin sözlesmeden caymasi halinde diger tarafin alikoyma hakkina sahip oldugu miktar",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zuhulen",
+    "anlam": "sehven, yanlışlıkla, hata sonucu",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zarar-ı Has",
+    "anlam": "Genel zarar",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zimmet",
+    "anlam": "Temellük mal edinme. Kurum ve kuruluşlarda çalışanlara veya para işleri ile uğraşan görevliye imza karşılığı teslim edilen para veya eşya. Bir kimsenin yasal olmayan yollardan üzerine geçirip ödemeye zorunlu olduğu para. Bir ticaret kuruluşunun borçlarının tümü",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zaruret",
+    "anlam": "Gereklilik, zorunluluk, sıkıntı",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zımni",
+    "anlam": "Açıktan olmayarak, dolaylı anlatım.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zilyedlik",
+    "anlam": "Bir şey üzerindeki fiili hakimiyet.",
+    "harf": "Z"
+  },
+  {
+    "terim": "zaviye",
+    "anlam": "Köşe, Anlayış, görüş, bakış açısı",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zannetmek",
+    "anlam": "Sanmak, tahmini bilgilere dayalı olan görüşler.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zina",
+    "anlam": "Zina Bekar Biri İle Veya Evli Biri İle Girilen İlişki.",
+    "harf": "Z"
+  },
+  {
+    "terim": "ZABIT KÂTİBİ",
+    "anlam": "Mahkemelerde duruşma zabıtlarını tutmak ve öteki yazı işlerini yürütmekle görevli adliye memuru.",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zecrî",
+    "anlam": "Zorlayıcı, zorlayan, yasaklayan",
+    "harf": "Z"
+  },
+  {
+    "terim": "zihni kayıt",
+    "anlam": "bir kimsenin bilerek ve isteyerek, asıl iradesiyle uyuşmayan bir beyanda bulunması",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zımnen",
+    "anlam": "Üstü kapalı bir biçimde, dolaylı olarak",
+    "harf": "Z"
+  },
+  {
+    "terim": "Zillet",
+    "anlam": "hor görülme, horlanma, aşağılanma, alçalma.",
+    "harf": "Z"
+  }
+]
