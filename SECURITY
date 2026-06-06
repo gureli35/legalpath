@@ -1,0 +1,24 @@
+# Security Policy
+
+## Supported Versions
+
+LegalPath is currently maintained as an active development project.
+
+Security updates are provided for the latest version.
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability, please do not disclose it publicly.
+
+Instead, contact the maintainer with a detailed description of the issue.
+
+Please include:
+
+* Vulnerability description
+* Steps to reproduce
+* Potential impact
+* Suggested mitigation (if available)
+
+We aim to acknowledge reports within 72 hours and resolve confirmed vulnerabilities as quickly as possible.
+
+We appreciate responsible disclosure and the efforts of security researchers who help improve LegalPath.
