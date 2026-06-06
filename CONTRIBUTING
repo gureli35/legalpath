@@ -1,0 +1,59 @@
+# Contributing to LegalPath
+
+Thank you for your interest in contributing to LegalPath.
+
+Our goal is to build an open, transparent, and community-driven LegalTech platform.
+
+## Getting Started
+
+1. Fork the repository.
+2. Create a new branch.
+
+```
+git checkout -b feature/my-feature
+```
+
+3. Install dependencies.
+
+```
+npm install
+```
+
+4. Start the development server.
+
+```
+npm run dev
+```
+
+## Pull Requests
+
+Before opening a Pull Request:
+
+* Keep changes focused on a single feature or fix.
+* Follow existing code style.
+* Write clear commit messages.
+* Update documentation if necessary.
+
+## Reporting Issues
+
+When reporting a bug, please include:
+
+* Expected behavior
+* Actual behavior
+* Steps to reproduce
+* Screenshots (if applicable)
+
+## Feature Requests
+
+Feature proposals are welcome.
+
+Please open an Issue before implementing large changes so the community can discuss the proposal.
+
+## Code Style
+
+* TypeScript preferred
+* Reusable components
+* Clean architecture
+* Meaningful variable names
+
+We appreciate every contribution that improves access to legal technology.
